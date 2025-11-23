@@ -8,22 +8,16 @@ services:
       - "27017:27017"
     volumes:
       - mongo_data:/data/db
-
-  cassandra:
-    image: cassandra:4.1
-    container_name: cassandra
-    ports:
-      - "9042:9042"
-      - "9160:9160"
-      - "7199:7199"
-    volumes:
-      - cassandra_data:/var/lib/cassandra
+    networks:
+      - nosql-net
 
   redis:
     image: redis:7
     container_name: redis
     ports:
       - "6379:6379"
+    networks:
+      - nosql-net
 
   neo4j:
     image: neo4j:5
@@ -35,8 +29,12 @@ services:
       NEO4J_AUTH: "neo4j/test123"
     volumes:
       - neo4j_data:/data
+    networks:
+      - nosql-net
+
+networks:
+  nosql-net:
 
 volumes:
   mongo_data:
-  cassandra_data:
   neo4j_data:
