@@ -3,16 +3,48 @@
         "course_id": "CS101",
         "course_name": "Introduction to Programming",
         "credits": 3,
-        "level": 1,
+        "level": 3,
         "department": "Computer Science",
-        "description": "Basics of coding using Python."
+        "description": "Introduction to Programming course."
     },
     {
         "course_id": "CS202",
         "course_name": "Data Structures",
+        "credits": 4,
+        "level": 3,
+        "department": "Computer Science",
+        "description": "Data Structures course."
+    },
+    {
+        "course_id": "IT300",
+        "course_name": "Networks Fundamentals",
         "credits": 3,
         "level": 2,
         "department": "Computer Science",
-        "description": "Study of arrays, linked lists, stacks, queues, etc."
+        "description": "Networks Fundamentals course."
+    },
+    {
+        "course_id": "DS210",
+        "course_name": "Intro to Data Science",
+        "credits": 3,
+        "level": 4,
+        "department": "Computer Science",
+        "description": "Intro to Data Science course."
+    },
+    {
+        "course_id": "CS310",
+        "course_name": "Databases",
+        "credits": 4,
+        "level": 4,
+        "department": "Computer Science",
+        "description": "Databases course."
+    },
+    {
+        "course_id": "CS330",
+        "course_name": "Operating Systems",
+        "credits": 3,
+        "level": 3,
+        "department": "Computer Science",
+        "description": "Operating Systems course."
     }
 ]

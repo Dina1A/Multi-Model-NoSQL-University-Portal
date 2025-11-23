@@ -16,5 +16,14 @@
         "required_credits": 132,
         "duration_years": 4,
         "description": "IT program focusing on networks, security, and systems."
+    },
+    {
+        "program_id": "PRG03",
+        "name": "Data Science",
+        "faculty": "IT",
+        "degree_type": "BSc",
+        "required_credits": 132,
+        "duration_years": 4,
+        "description": "Program focusing on analytics and machine learning."
     }
 ]

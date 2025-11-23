@@ -2,84 +2,804 @@
     "nodes": {
         "students": [
             {
-                "student_id": "ST442",
-                "name": "Kevin Mitchell"
+                "student_id": "ST9367",
+                "name": "Johnny Long"
             },
             {
-                "student_id": "ST621",
-                "name": "Fred Bowers"
+                "student_id": "ST3293",
+                "name": "Jason Elliott"
             },
             {
-                "student_id": "ST121",
-                "name": "Karen Madden"
+                "student_id": "ST4917",
+                "name": "Alexander Trevino"
             },
             {
-                "student_id": "ST348",
-                "name": "Rachel Brown"
+                "student_id": "ST0750",
+                "name": "Paula Lopez"
             },
             {
-                "student_id": "ST142",
-                "name": "Wendy Davis"
+                "student_id": "ST1476",
+                "name": "Bruce Hudson"
             },
             {
-                "student_id": "ST254",
-                "name": "Courtney Gomez"
+                "student_id": "ST6891",
+                "name": "Jessica Morris"
             },
             {
-                "student_id": "ST198",
-                "name": "Amber Johnson"
+                "student_id": "ST9223",
+                "name": "Patrick Pineda"
             },
             {
-                "student_id": "ST012",
-                "name": "Michael Carpenter"
+                "student_id": "ST8702",
+                "name": "Lisa Skinner"
             },
             {
-                "student_id": "ST762",
-                "name": "Alicia Price"
+                "student_id": "ST8556",
+                "name": "Michael Sanders"
             },
             {
-                "student_id": "ST031",
-                "name": "Nicholas Wilson"
+                "student_id": "ST0771",
+                "name": "Nicole Sandoval"
             },
             {
-                "student_id": "ST508",
-                "name": "Carl Henry"
+                "student_id": "ST7699",
+                "name": "Karen Tyler"
             },
             {
-                "student_id": "ST724",
-                "name": "Diane Combs"
+                "student_id": "ST1675",
+                "name": "William Silva"
             },
             {
-                "student_id": "ST876",
-                "name": "Johnathan Bradley"
+                "student_id": "ST0526",
+                "name": "Mary Villarreal"
             },
             {
-                "student_id": "ST258",
-                "name": "Christine Walker"
+                "student_id": "ST5217",
+                "name": "Jonathan Randall"
             },
             {
-                "student_id": "ST868",
-                "name": "Carol Griffith"
+                "student_id": "ST7676",
+                "name": "Alison Nichols"
             },
             {
-                "student_id": "ST551",
-                "name": "Rachel Jones"
+                "student_id": "ST4671",
+                "name": "Beth Hammond"
             },
             {
-                "student_id": "ST300",
-                "name": "Monica Russell"
+                "student_id": "ST6524",
+                "name": "Theresa Underwood"
             },
             {
-                "student_id": "ST808",
-                "name": "Jonathan Chen"
+                "student_id": "ST2498",
+                "name": "Anthony Nicholson"
             },
             {
-                "student_id": "ST666",
-                "name": "Margaret Smith"
+                "student_id": "ST2014",
+                "name": "Shawn Holmes"
             },
             {
-                "student_id": "ST178",
-                "name": "Paula Hernandez"
+                "student_id": "ST0791",
+                "name": "Jason Tran"
+            },
+            {
+                "student_id": "ST9670",
+                "name": "Alicia Le"
+            },
+            {
+                "student_id": "ST0109",
+                "name": "Julie Macias"
+            },
+            {
+                "student_id": "ST6160",
+                "name": "Wesley Logan"
+            },
+            {
+                "student_id": "ST6180",
+                "name": "Erin Reed"
+            },
+            {
+                "student_id": "ST5763",
+                "name": "Kenneth Henson"
+            },
+            {
+                "student_id": "ST2829",
+                "name": "Christopher King"
+            },
+            {
+                "student_id": "ST7460",
+                "name": "Kenneth King"
+            },
+            {
+                "student_id": "ST7686",
+                "name": "Carol Valenzuela"
+            },
+            {
+                "student_id": "ST6887",
+                "name": "Melvin Miller"
+            },
+            {
+                "student_id": "ST9728",
+                "name": "Amanda Brown"
+            },
+            {
+                "student_id": "ST9663",
+                "name": "Heather Turner"
+            },
+            {
+                "student_id": "ST4192",
+                "name": "Amanda Martinez"
+            },
+            {
+                "student_id": "ST8010",
+                "name": "Amanda Gutierrez"
+            },
+            {
+                "student_id": "ST0137",
+                "name": "Suzanne Phillips"
+            },
+            {
+                "student_id": "ST4759",
+                "name": "Denise Campbell"
+            },
+            {
+                "student_id": "ST6968",
+                "name": "Andrew Brown"
+            },
+            {
+                "student_id": "ST3943",
+                "name": "Derek Thompson"
+            },
+            {
+                "student_id": "ST5498",
+                "name": "Kaitlyn Cummings"
+            },
+            {
+                "student_id": "ST9597",
+                "name": "Andrew Tran"
+            },
+            {
+                "student_id": "ST9967",
+                "name": "Michael Marquez"
+            },
+            {
+                "student_id": "ST9771",
+                "name": "Troy Lopez"
+            },
+            {
+                "student_id": "ST3766",
+                "name": "Mary Chen"
+            },
+            {
+                "student_id": "ST1617",
+                "name": "Melinda Thompson"
+            },
+            {
+                "student_id": "ST9193",
+                "name": "Jessica Alvarado"
+            },
+            {
+                "student_id": "ST0130",
+                "name": "Charles Brown"
+            },
+            {
+                "student_id": "ST0007",
+                "name": "Michael Reed"
+            },
+            {
+                "student_id": "ST7210",
+                "name": "Lauren Kelly"
+            },
+            {
+                "student_id": "ST1533",
+                "name": "Ann Pennington"
+            },
+            {
+                "student_id": "ST3342",
+                "name": "Felicia Rogers"
+            },
+            {
+                "student_id": "ST6979",
+                "name": "William Jones"
+            },
+            {
+                "student_id": "ST2508",
+                "name": "Frank Cummings"
+            },
+            {
+                "student_id": "ST5492",
+                "name": "Paige Logan"
+            },
+            {
+                "student_id": "ST3312",
+                "name": "Megan Walters"
+            },
+            {
+                "student_id": "ST0818",
+                "name": "Jeffrey Smith"
+            },
+            {
+                "student_id": "ST2256",
+                "name": "Lauren Thornton"
+            },
+            {
+                "student_id": "ST5451",
+                "name": "Jose Galloway"
+            },
+            {
+                "student_id": "ST2685",
+                "name": "Aaron Moore"
+            },
+            {
+                "student_id": "ST8410",
+                "name": "Jerome Sanchez"
+            },
+            {
+                "student_id": "ST4507",
+                "name": "Jacqueline Bates"
+            },
+            {
+                "student_id": "ST3048",
+                "name": "Megan Tate"
+            },
+            {
+                "student_id": "ST2998",
+                "name": "Victoria Lucas"
+            },
+            {
+                "student_id": "ST8358",
+                "name": "Elizabeth Weiss"
+            },
+            {
+                "student_id": "ST7761",
+                "name": "Traci Young"
+            },
+            {
+                "student_id": "ST1068",
+                "name": "Jared Hall"
+            },
+            {
+                "student_id": "ST6014",
+                "name": "Whitney Wilson"
+            },
+            {
+                "student_id": "ST2497",
+                "name": "John Gonzalez"
+            },
+            {
+                "student_id": "ST0162",
+                "name": "Dennis Lopez"
+            },
+            {
+                "student_id": "ST5158",
+                "name": "Michael Lewis"
+            },
+            {
+                "student_id": "ST3881",
+                "name": "Hannah Carr"
+            },
+            {
+                "student_id": "ST4685",
+                "name": "Miguel Russell"
+            },
+            {
+                "student_id": "ST3167",
+                "name": "Robert Harrison"
+            },
+            {
+                "student_id": "ST2972",
+                "name": "Sheryl Cummings"
+            },
+            {
+                "student_id": "ST5409",
+                "name": "Eric Fitzpatrick"
+            },
+            {
+                "student_id": "ST5730",
+                "name": "Rebecca Wilson"
+            },
+            {
+                "student_id": "ST1511",
+                "name": "Connie White"
+            },
+            {
+                "student_id": "ST2164",
+                "name": "Andrew Lucas"
+            },
+            {
+                "student_id": "ST6992",
+                "name": "Angela Davis"
+            },
+            {
+                "student_id": "ST8254",
+                "name": "Sarah Gallagher"
+            },
+            {
+                "student_id": "ST6443",
+                "name": "Bradley Mason"
+            },
+            {
+                "student_id": "ST7516",
+                "name": "Daniel Bishop"
+            },
+            {
+                "student_id": "ST8700",
+                "name": "Matthew Edwards"
+            },
+            {
+                "student_id": "ST7005",
+                "name": "Holly Holmes"
+            },
+            {
+                "student_id": "ST9548",
+                "name": "Tara Young"
+            },
+            {
+                "student_id": "ST0068",
+                "name": "Anthony Mendoza"
+            },
+            {
+                "student_id": "ST7886",
+                "name": "Christian Mccarty"
+            },
+            {
+                "student_id": "ST7398",
+                "name": "Christine Phillips"
+            },
+            {
+                "student_id": "ST5497",
+                "name": "Donna Alexander"
+            },
+            {
+                "student_id": "ST4773",
+                "name": "Hunter Giles"
+            },
+            {
+                "student_id": "ST7481",
+                "name": "Philip Grant"
+            },
+            {
+                "student_id": "ST2780",
+                "name": "Sean Becker"
+            },
+            {
+                "student_id": "ST7218",
+                "name": "Meghan Fritz"
+            },
+            {
+                "student_id": "ST0976",
+                "name": "Carrie Griffith"
+            },
+            {
+                "student_id": "ST5672",
+                "name": "Sherry Richards"
+            },
+            {
+                "student_id": "ST9665",
+                "name": "Jason Ellis"
+            },
+            {
+                "student_id": "ST9288",
+                "name": "Hannah Dalton"
+            },
+            {
+                "student_id": "ST4645",
+                "name": "Richard Mcpherson"
+            },
+            {
+                "student_id": "ST0260",
+                "name": "Diane Cardenas"
+            },
+            {
+                "student_id": "ST1536",
+                "name": "Joshua Brown"
+            },
+            {
+                "student_id": "ST5849",
+                "name": "Deanna Austin"
+            },
+            {
+                "student_id": "ST7148",
+                "name": "Jerry Yu"
+            },
+            {
+                "student_id": "ST7499",
+                "name": "Jeffrey Martin"
+            },
+            {
+                "student_id": "ST1452",
+                "name": "Nancy Obrien"
+            },
+            {
+                "student_id": "ST3162",
+                "name": "Tom Medina"
+            },
+            {
+                "student_id": "ST4563",
+                "name": "Michael Powell"
+            },
+            {
+                "student_id": "ST2694",
+                "name": "Lisa Russo"
+            },
+            {
+                "student_id": "ST9991",
+                "name": "Paula Brown"
+            },
+            {
+                "student_id": "ST4012",
+                "name": "Kristin Barton"
+            },
+            {
+                "student_id": "ST8619",
+                "name": "Eric Turner"
+            },
+            {
+                "student_id": "ST2126",
+                "name": "Kimberly Williams"
+            },
+            {
+                "student_id": "ST8134",
+                "name": "Dawn Weaver"
+            },
+            {
+                "student_id": "ST5411",
+                "name": "Katherine Rodriguez"
+            },
+            {
+                "student_id": "ST8609",
+                "name": "Stacey Black"
+            },
+            {
+                "student_id": "ST3735",
+                "name": "Michelle Patrick"
+            },
+            {
+                "student_id": "ST0863",
+                "name": "Anthony Herrera"
+            },
+            {
+                "student_id": "ST5345",
+                "name": "Tara Young"
+            },
+            {
+                "student_id": "ST5323",
+                "name": "Jennifer Henderson"
+            },
+            {
+                "student_id": "ST9733",
+                "name": "Lorraine Johnson"
+            },
+            {
+                "student_id": "ST2951",
+                "name": "Jeremy Anderson"
+            },
+            {
+                "student_id": "ST3039",
+                "name": "Paul Ramos"
+            },
+            {
+                "student_id": "ST0364",
+                "name": "Roger Campbell"
+            },
+            {
+                "student_id": "ST7406",
+                "name": "Gregory Sanders"
+            },
+            {
+                "student_id": "ST4852",
+                "name": "Andrew Petersen"
+            },
+            {
+                "student_id": "ST4149",
+                "name": "Arthur Day"
+            },
+            {
+                "student_id": "ST4027",
+                "name": "Deborah Turner"
+            },
+            {
+                "student_id": "ST9013",
+                "name": "Heather Haley"
+            },
+            {
+                "student_id": "ST6744",
+                "name": "Rose Rice"
+            },
+            {
+                "student_id": "ST5118",
+                "name": "Rachel Cortez"
+            },
+            {
+                "student_id": "ST9279",
+                "name": "Kimberly Graves"
+            },
+            {
+                "student_id": "ST6030",
+                "name": "Elizabeth Long"
+            },
+            {
+                "student_id": "ST5005",
+                "name": "Daniel Johnson"
+            },
+            {
+                "student_id": "ST9598",
+                "name": "Joseph Lambert"
+            },
+            {
+                "student_id": "ST0619",
+                "name": "Sabrina Young"
+            },
+            {
+                "student_id": "ST7075",
+                "name": "Roy Webb"
+            },
+            {
+                "student_id": "ST0583",
+                "name": "Andrew Duncan"
+            },
+            {
+                "student_id": "ST1556",
+                "name": "Benjamin Martin"
+            },
+            {
+                "student_id": "ST4416",
+                "name": "Randy Andrews"
+            },
+            {
+                "student_id": "ST1414",
+                "name": "James Odonnell"
+            },
+            {
+                "student_id": "ST0149",
+                "name": "David Reynolds"
+            },
+            {
+                "student_id": "ST8836",
+                "name": "Robin Weaver"
+            },
+            {
+                "student_id": "ST7181",
+                "name": "Jose Guzman"
+            },
+            {
+                "student_id": "ST8979",
+                "name": "Dylan Roberts"
+            },
+            {
+                "student_id": "ST3398",
+                "name": "Virginia Burns"
+            },
+            {
+                "student_id": "ST4899",
+                "name": "Julia Durham"
+            },
+            {
+                "student_id": "ST7160",
+                "name": "Michael Parker"
+            },
+            {
+                "student_id": "ST4727",
+                "name": "Brian Hurley"
+            },
+            {
+                "student_id": "ST0362",
+                "name": "Lisa Becker"
+            },
+            {
+                "student_id": "ST5293",
+                "name": "Thomas Orozco"
+            },
+            {
+                "student_id": "ST6454",
+                "name": "Cheyenne Martinez"
+            },
+            {
+                "student_id": "ST2816",
+                "name": "Marc Burgess"
+            },
+            {
+                "student_id": "ST9640",
+                "name": "Kevin Hopkins"
+            },
+            {
+                "student_id": "ST2934",
+                "name": "Kristine Ross"
+            },
+            {
+                "student_id": "ST1727",
+                "name": "Lorraine Harper"
+            },
+            {
+                "student_id": "ST0606",
+                "name": "Kenneth Roberts"
+            },
+            {
+                "student_id": "ST5132",
+                "name": "Michael Morrow"
+            },
+            {
+                "student_id": "ST9050",
+                "name": "Laurie Anderson"
+            },
+            {
+                "student_id": "ST6609",
+                "name": "Kevin Benson"
+            },
+            {
+                "student_id": "ST7446",
+                "name": "Mary Rios"
+            },
+            {
+                "student_id": "ST7944",
+                "name": "Katrina Smith"
+            },
+            {
+                "student_id": "ST9416",
+                "name": "Douglas Clark"
+            },
+            {
+                "student_id": "ST2769",
+                "name": "Jessica Raymond"
+            },
+            {
+                "student_id": "ST0229",
+                "name": "Autumn Malone"
+            },
+            {
+                "student_id": "ST9413",
+                "name": "Eric Cameron"
+            },
+            {
+                "student_id": "ST0762",
+                "name": "Katie Brown"
+            },
+            {
+                "student_id": "ST6665",
+                "name": "Julie Jones"
+            },
+            {
+                "student_id": "ST7296",
+                "name": "Nathan Graham"
+            },
+            {
+                "student_id": "ST8724",
+                "name": "Adam Harding"
+            },
+            {
+                "student_id": "ST6539",
+                "name": "Jacqueline Nelson"
+            },
+            {
+                "student_id": "ST1980",
+                "name": "Kelly Boyd"
+            },
+            {
+                "student_id": "ST7089",
+                "name": "Jim Payne"
+            },
+            {
+                "student_id": "ST5715",
+                "name": "Jose Chambers"
+            },
+            {
+                "student_id": "ST7773",
+                "name": "Jennifer Johnston"
+            },
+            {
+                "student_id": "ST1081",
+                "name": "Cody Allen"
+            },
+            {
+                "student_id": "ST7596",
+                "name": "Jorge Lee"
+            },
+            {
+                "student_id": "ST4855",
+                "name": "Matthew Mendez"
+            },
+            {
+                "student_id": "ST9032",
+                "name": "Ryan Hancock"
+            },
+            {
+                "student_id": "ST2449",
+                "name": "Edward Schwartz"
+            },
+            {
+                "student_id": "ST1502",
+                "name": "David Hawkins"
+            },
+            {
+                "student_id": "ST7204",
+                "name": "Kristen Hughes"
+            },
+            {
+                "student_id": "ST1190",
+                "name": "Michael Holland"
+            },
+            {
+                "student_id": "ST0567",
+                "name": "Jo Perez"
+            },
+            {
+                "student_id": "ST0401",
+                "name": "Juan Valenzuela"
+            },
+            {
+                "student_id": "ST8817",
+                "name": "Steven Andrade"
+            },
+            {
+                "student_id": "ST8343",
+                "name": "Nicole Simon"
+            },
+            {
+                "student_id": "ST5222",
+                "name": "Patricia Wheeler"
+            },
+            {
+                "student_id": "ST7203",
+                "name": "Gerald Gonzalez"
+            },
+            {
+                "student_id": "ST2468",
+                "name": "Alice Gray"
+            },
+            {
+                "student_id": "ST3669",
+                "name": "Tara Valenzuela"
+            },
+            {
+                "student_id": "ST0442",
+                "name": "Alexis Parks"
+            },
+            {
+                "student_id": "ST3962",
+                "name": "Tammy Parrish"
+            },
+            {
+                "student_id": "ST9864",
+                "name": "Victoria Thomas"
+            },
+            {
+                "student_id": "ST4156",
+                "name": "Brandon Lee"
+            },
+            {
+                "student_id": "ST0273",
+                "name": "Elizabeth Rogers"
+            },
+            {
+                "student_id": "ST9677",
+                "name": "Joshua Woods"
+            },
+            {
+                "student_id": "ST3679",
+                "name": "Jennifer Nelson"
+            },
+            {
+                "student_id": "ST1859",
+                "name": "Patricia Weaver"
+            },
+            {
+                "student_id": "ST5840",
+                "name": "Mark Bell"
+            },
+            {
+                "student_id": "ST9954",
+                "name": "Rachel Rodriguez"
+            },
+            {
+                "student_id": "ST6966",
+                "name": "Charles Clark"
+            },
+            {
+                "student_id": "ST3674",
+                "name": "Destiny Griffin"
+            },
+            {
+                "student_id": "ST9060",
+                "name": "William Obrien"
             }
         ],
         "courses": [
@@ -90,6 +810,22 @@
             {
                 "course_id": "CS202",
                 "name": "Data Structures"
+            },
+            {
+                "course_id": "IT300",
+                "name": "Networks Fundamentals"
+            },
+            {
+                "course_id": "DS210",
+                "name": "Intro to Data Science"
+            },
+            {
+                "course_id": "CS310",
+                "name": "Databases"
+            },
+            {
+                "course_id": "CS330",
+                "name": "Operating Systems"
             }
         ],
         "instructors": [
@@ -101,6 +837,11 @@
             {
                 "instructor_id": "INS02",
                 "name": "Dr. Sara",
+                "department": "CS"
+            },
+            {
+                "instructor_id": "INS03",
+                "name": "Dr. Ali",
                 "department": "IT"
             }
         ]
@@ -108,373 +849,5443 @@
     "relationships": [
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST442",
+            "student_id": "ST9367",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9367",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST442",
+            "student_id": "ST9367",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST621",
+            "student_id": "ST9367",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST621",
+            "student_id": "ST3293",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3293",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3293",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4917",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4917",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4917",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4917",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST621",
-            "course_id": "CS101"
+            "student_id": "ST0750",
+            "course_id": "CS310"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST621",
+            "student_id": "ST0750",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST121",
-            "course_id": "DS210"
+            "student_id": "ST0750",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST121",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST348",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST348",
+            "student_id": "ST1476",
             "course_id": "CS202"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST348",
+            "student_id": "ST1476",
             "course_id": "CS202"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST348",
+            "student_id": "ST1476",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6891",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST142",
+            "student_id": "ST6891",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6891",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST142",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST142",
+            "student_id": "ST9223",
             "course_id": "CS202"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST254",
-            "course_id": "DS210"
+            "student_id": "ST9223",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST254",
+            "student_id": "ST9223",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9223",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8702",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8702",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8702",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8556",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8556",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8556",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0771",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0771",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST198",
-            "course_id": "CS101"
+            "student_id": "ST0771",
+            "course_id": "CS310"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST198",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST012",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST012",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST012",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST012",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST012",
+            "student_id": "ST0771",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST012",
-            "course_id": "CS202"
+            "student_id": "ST0771",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST762",
+            "student_id": "ST7699",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST762",
+            "student_id": "ST7699",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST762",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST762",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST031",
+            "student_id": "ST7699",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST031",
+            "student_id": "ST7699",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST031",
+            "student_id": "ST7699",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST031",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST031",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST508",
+            "student_id": "ST7699",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST508",
+            "student_id": "ST7699",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST724",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST724",
+            "student_id": "ST1675",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST724",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST724",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST876",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST876",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST876",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST876",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST258",
-            "course_id": "CS101"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST258",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST258",
+            "student_id": "ST1675",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST258",
-            "course_id": "DS210"
+            "student_id": "ST1675",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST868",
-            "course_id": "CS202"
+            "student_id": "ST1675",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST868",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST868",
-            "course_id": "IT300"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST868",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST868",
+            "student_id": "ST1675",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST868",
-            "course_id": "CS202"
+            "student_id": "ST1675",
+            "course_id": "CS310"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST551",
-            "course_id": "CS202"
+            "student_id": "ST1675",
+            "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST551",
-            "course_id": "CS202"
+            "student_id": "ST0526",
+            "course_id": "CS330"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST551",
+            "student_id": "ST0526",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST551",
+            "student_id": "ST0526",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0526",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0526",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0526",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0526",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5217",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7676",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7676",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7676",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7676",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4671",
             "course_id": "CS101"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST551",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST300",
-            "course_id": "DS210"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST300",
+            "student_id": "ST4671",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST300",
+            "student_id": "ST4671",
             "course_id": "CS202"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST808",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST808",
+            "student_id": "ST4671",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST808",
+            "student_id": "ST4671",
             "course_id": "IT300"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST666",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST666",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST666",
-            "course_id": "CS202"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST178",
-            "course_id": "IT300"
-        },
-        {
-            "type": "ENROLLED_IN",
-            "student_id": "ST178",
+            "student_id": "ST4671",
             "course_id": "DS210"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST178",
+            "student_id": "ST4671",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4671",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6524",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6524",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6524",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2498",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2498",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2498",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2498",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2498",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2014",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2014",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2014",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2014",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
             "course_id": "CS202"
         },
         {
             "type": "ENROLLED_IN",
-            "student_id": "ST178",
+            "student_id": "ST0791",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0791",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9670",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0109",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0109",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0109",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6160",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6180",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5763",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5763",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5763",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2829",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2829",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2829",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2829",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7460",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7460",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7460",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7686",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7686",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7686",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7686",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6887",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6887",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6887",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6887",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6887",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9728",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9728",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9728",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9663",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4192",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4192",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4192",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8010",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8010",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8010",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8010",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8010",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0137",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4759",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6968",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3943",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5498",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5498",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5498",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5498",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9597",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9967",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9771",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3766",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3766",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3766",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1617",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9193",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9193",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9193",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9193",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0130",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0130",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0130",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0130",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0130",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0007",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7210",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7210",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7210",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7210",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7210",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1533",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3342",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3342",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3342",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3342",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6979",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2508",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2508",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2508",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5492",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3312",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0818",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0818",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0818",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2256",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2256",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2256",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5451",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5451",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5451",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5451",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5451",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2685",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8410",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8410",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8410",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8410",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4507",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4507",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4507",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4507",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3048",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2998",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8358",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7761",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7761",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7761",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1068",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6014",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6014",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6014",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2497",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2497",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2497",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2497",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2497",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0162",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0162",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0162",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0162",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5158",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5158",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5158",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3881",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3881",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3881",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4685",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3167",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2972",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5409",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5409",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5409",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5409",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5730",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5730",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5730",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5730",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5730",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1511",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2164",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2164",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2164",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2164",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2164",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6992",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8254",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6443",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7516",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7516",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7516",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8700",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8700",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8700",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8700",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7005",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9548",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0068",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7886",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7398",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5497",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5497",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5497",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4773",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4773",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4773",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7481",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2780",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7218",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7218",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7218",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0976",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0976",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0976",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0976",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0976",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5672",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9665",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9288",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9288",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9288",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9288",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9288",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4645",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4645",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4645",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0260",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0260",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0260",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0260",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0260",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1536",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1536",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1536",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1536",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1536",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5849",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7148",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7499",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1452",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1452",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1452",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3162",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4563",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4563",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4563",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4563",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4563",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2694",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9991",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9991",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9991",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9991",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9991",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4012",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8619",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8619",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8619",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8619",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2126",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2126",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2126",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2126",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2126",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8134",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8134",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8134",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8134",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5411",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8609",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8609",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8609",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3735",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0863",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5345",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5345",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5345",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5345",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5323",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5323",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5323",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9733",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9733",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9733",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9733",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2951",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3039",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0364",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7406",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4852",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4852",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4852",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4149",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4027",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4027",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4027",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4027",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9013",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9013",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9013",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9013",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9013",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6744",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6744",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6744",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5118",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9279",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9279",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9279",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6030",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5005",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5005",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5005",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5005",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9598",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9598",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9598",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9598",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0619",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7075",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0583",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0583",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0583",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0583",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0583",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1556",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4416",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4416",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4416",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4416",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1414",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1414",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1414",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0149",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0149",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0149",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0149",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0149",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8836",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8836",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8836",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7181",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8979",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8979",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8979",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3398",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3398",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3398",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3398",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3398",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4899",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7160",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7160",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7160",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4727",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4727",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4727",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4727",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4727",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0362",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5293",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5293",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5293",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6454",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6454",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6454",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2816",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9640",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2934",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2934",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2934",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1727",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1727",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1727",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0606",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5132",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9050",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9050",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9050",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6609",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7446",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7944",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7944",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7944",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9416",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9416",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9416",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2769",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2769",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2769",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2769",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0229",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9413",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9413",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9413",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9413",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0762",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6665",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7296",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8724",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6539",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1980",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1980",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1980",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1980",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1980",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7089",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7089",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7089",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7089",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5715",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7773",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7773",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7773",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7773",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7773",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1081",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7596",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4855",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4855",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4855",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9032",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2449",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2449",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2449",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2449",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1502",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1502",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1502",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7204",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1190",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0567",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0567",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0567",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0401",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0401",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0401",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0401",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0401",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8817",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST8343",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5222",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST7203",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST2468",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3669",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0442",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3962",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3962",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3962",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3962",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9864",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9864",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9864",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9864",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9864",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST4156",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST0273",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9677",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3679",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3679",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3679",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3679",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3679",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST1859",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5840",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5840",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST5840",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9954",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6966",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6966",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6966",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6966",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST6966",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "IT300"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "DS210"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST3674",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS101"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS202"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS310"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
+            "course_id": "CS330"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "ST9060",
             "course_id": "IT300"
         },
         {
             "type": "TEACHES",
-            "instructor_id": "INS02",
+            "instructor_id": "INS01",
             "course_id": "CS101"
         },
         {
             "type": "TEACHES",
             "instructor_id": "INS02",
             "course_id": "CS202"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS01",
+            "course_id": "IT300"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS01",
+            "course_id": "DS210"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS01",
+            "course_id": "CS310"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS03",
+            "course_id": "CS330"
         }
     ]
 }
