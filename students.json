@@ -1,0 +1,786 @@
+[
+    {
+        "student_id": "ST442",
+        "first_name": "Kevin",
+        "last_name": "Mitchell",
+        "email": "ashley79@example.com",
+        "phone": "(634)494-0809x978",
+        "gender": "male",
+        "birthdate": "2001-05-04",
+        "program_id": "PRG01",
+        "year": 2,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2024A",
+                "grade": 76,
+                "attendance_percentage": 88,
+                "status": "completed"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 94,
+                "attendance_percentage": 83,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST621",
+        "first_name": "Fred",
+        "last_name": "Bowers",
+        "email": "jacobbrown@example.net",
+        "phone": "978-332-6381x9324",
+        "gender": "male",
+        "birthdate": "2002-02-16",
+        "program_id": "PRG01",
+        "year": 2,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "IT300",
+                "semester": "2024B",
+                "grade": 75,
+                "attendance_percentage": 93,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2025A",
+                "grade": 89,
+                "attendance_percentage": 81,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 70,
+                "attendance_percentage": 78,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024B",
+                "grade": 64,
+                "attendance_percentage": 94,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST121",
+        "first_name": "Karen",
+        "last_name": "Madden",
+        "email": "kevinball@example.net",
+        "phone": "299-476-3719x6498",
+        "gender": "male",
+        "birthdate": "2001-05-24",
+        "program_id": "PRG03",
+        "year": 2,
+        "status": "active",
+        "courses": [
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 93,
+                "attendance_percentage": 71,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 78,
+                "attendance_percentage": 96,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST348",
+        "first_name": "Rachel",
+        "last_name": "Brown",
+        "email": "wdixon@example.net",
+        "phone": "+1-634-411-1374x14823",
+        "gender": "female",
+        "birthdate": "2006-06-11",
+        "program_id": "PRG01",
+        "year": 2,
+        "status": "active",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 93,
+                "attendance_percentage": 89,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 97,
+                "attendance_percentage": 70,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 79,
+                "attendance_percentage": 86,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024A",
+                "grade": 88,
+                "attendance_percentage": 73,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST142",
+        "first_name": "Wendy",
+        "last_name": "Davis",
+        "email": "ruben80@example.net",
+        "phone": "9914548827",
+        "gender": "male",
+        "birthdate": "2007-08-01",
+        "program_id": "PRG03",
+        "year": 1,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 77,
+                "attendance_percentage": 71,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024A",
+                "grade": 86,
+                "attendance_percentage": 86,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 62,
+                "attendance_percentage": 97,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST254",
+        "first_name": "Courtney",
+        "last_name": "Gomez",
+        "email": "michael12@example.org",
+        "phone": "(748)982-3854x18708",
+        "gender": "male",
+        "birthdate": "2002-12-20",
+        "program_id": "PRG03",
+        "year": 4,
+        "status": "active",
+        "courses": [
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 88,
+                "attendance_percentage": 79,
+                "status": "completed"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 69,
+                "attendance_percentage": 89,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST198",
+        "first_name": "Amber",
+        "last_name": "Johnson",
+        "email": "sunderwood@example.net",
+        "phone": "822-956-7712",
+        "gender": "female",
+        "birthdate": "2003-06-21",
+        "program_id": "PRG02",
+        "year": 1,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2025A",
+                "grade": 71,
+                "attendance_percentage": 98,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 77,
+                "attendance_percentage": 83,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST012",
+        "first_name": "Michael",
+        "last_name": "Carpenter",
+        "email": "tracymartin@example.com",
+        "phone": "630-435-9784x9254",
+        "gender": "female",
+        "birthdate": "2006-11-30",
+        "program_id": "PRG01",
+        "year": 4,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "DS210",
+                "semester": "2024A",
+                "grade": 62,
+                "attendance_percentage": 71,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 84,
+                "attendance_percentage": 94,
+                "status": "completed"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024A",
+                "grade": 64,
+                "attendance_percentage": 94,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 80,
+                "attendance_percentage": 85,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2025A",
+                "grade": 79,
+                "attendance_percentage": 97,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 69,
+                "attendance_percentage": 79,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST762",
+        "first_name": "Alicia",
+        "last_name": "Price",
+        "email": "hharrell@example.com",
+        "phone": "282.580.3224x515",
+        "gender": "male",
+        "birthdate": "2001-07-01",
+        "program_id": "PRG02",
+        "year": 3,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "IT300",
+                "semester": "2024B",
+                "grade": 79,
+                "attendance_percentage": 85,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 95,
+                "attendance_percentage": 94,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 82,
+                "attendance_percentage": 98,
+                "status": "completed"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 66,
+                "attendance_percentage": 98,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST031",
+        "first_name": "Nicholas",
+        "last_name": "Wilson",
+        "email": "adkinsjorge@example.net",
+        "phone": "001-333-765-1250x0337",
+        "gender": "female",
+        "birthdate": "2005-04-11",
+        "program_id": "PRG01",
+        "year": 4,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2024A",
+                "grade": 71,
+                "attendance_percentage": 92,
+                "status": "completed"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 96,
+                "attendance_percentage": 83,
+                "status": "completed"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 73,
+                "attendance_percentage": 84,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 68,
+                "attendance_percentage": 92,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 61,
+                "attendance_percentage": 82,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST508",
+        "first_name": "Carl",
+        "last_name": "Henry",
+        "email": "zthomas@example.com",
+        "phone": "338.267.7638",
+        "gender": "male",
+        "birthdate": "2007-03-08",
+        "program_id": "PRG03",
+        "year": 1,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "IT300",
+                "semester": "2025A",
+                "grade": 91,
+                "attendance_percentage": 96,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 83,
+                "attendance_percentage": 92,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST724",
+        "first_name": "Diane",
+        "last_name": "Combs",
+        "email": "david89@example.org",
+        "phone": "+1-514-733-3137x130",
+        "gender": "female",
+        "birthdate": "2005-06-14",
+        "program_id": "PRG03",
+        "year": 4,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 79,
+                "attendance_percentage": 86,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 60,
+                "attendance_percentage": 77,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 91,
+                "attendance_percentage": 93,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024A",
+                "grade": 69,
+                "attendance_percentage": 75,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST876",
+        "first_name": "Johnathan",
+        "last_name": "Bradley",
+        "email": "carol13@example.net",
+        "phone": "(599)867-0358",
+        "gender": "female",
+        "birthdate": "2002-10-31",
+        "program_id": "PRG02",
+        "year": 4,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 95,
+                "attendance_percentage": 94,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 72,
+                "attendance_percentage": 88,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 71,
+                "attendance_percentage": 94,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 81,
+                "attendance_percentage": 93,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST258",
+        "first_name": "Christine",
+        "last_name": "Walker",
+        "email": "james03@example.com",
+        "phone": "375.836.2709",
+        "gender": "male",
+        "birthdate": "2001-07-20",
+        "program_id": "PRG01",
+        "year": 4,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 91,
+                "attendance_percentage": 85,
+                "status": "completed"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 81,
+                "attendance_percentage": 80,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2025A",
+                "grade": 75,
+                "attendance_percentage": 95,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 91,
+                "attendance_percentage": 92,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST868",
+        "first_name": "Carol",
+        "last_name": "Griffith",
+        "email": "sandraconley@example.net",
+        "phone": "(967)980-5559x64301",
+        "gender": "female",
+        "birthdate": "2007-06-25",
+        "program_id": "PRG03",
+        "year": 3,
+        "status": "active",
+        "courses": [
+            {
+                "course_id": "CS202",
+                "semester": "2024A",
+                "grade": 69,
+                "attendance_percentage": 86,
+                "status": "completed"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2025A",
+                "grade": 81,
+                "attendance_percentage": 94,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024B",
+                "grade": 80,
+                "attendance_percentage": 70,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 86,
+                "attendance_percentage": 77,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 66,
+                "attendance_percentage": 80,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 68,
+                "attendance_percentage": 89,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST551",
+        "first_name": "Rachel",
+        "last_name": "Jones",
+        "email": "matthewcooke@example.org",
+        "phone": "606-346-5407x00954",
+        "gender": "male",
+        "birthdate": "2003-08-01",
+        "program_id": "PRG03",
+        "year": 2,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 62,
+                "attendance_percentage": 93,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 68,
+                "attendance_percentage": 90,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2024B",
+                "grade": 77,
+                "attendance_percentage": 75,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS101",
+                "semester": "2025A",
+                "grade": 76,
+                "attendance_percentage": 92,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 86,
+                "attendance_percentage": 91,
+                "status": "completed"
+            }
+        ]
+    },
+    {
+        "student_id": "ST300",
+        "first_name": "Monica",
+        "last_name": "Russell",
+        "email": "deannarichard@example.org",
+        "phone": "399-704-6975x96839",
+        "gender": "male",
+        "birthdate": "2003-06-17",
+        "program_id": "PRG01",
+        "year": 4,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 61,
+                "attendance_percentage": 99,
+                "status": "completed"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 99,
+                "attendance_percentage": 76,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2025A",
+                "grade": 75,
+                "attendance_percentage": 88,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST808",
+        "first_name": "Jonathan",
+        "last_name": "Chen",
+        "email": "rchapman@example.org",
+        "phone": "001-942-582-6703x41811",
+        "gender": "female",
+        "birthdate": "2001-02-05",
+        "program_id": "PRG02",
+        "year": 3,
+        "status": "suspended",
+        "courses": [
+            {
+                "course_id": "CS202",
+                "semester": "2024A",
+                "grade": 85,
+                "attendance_percentage": 85,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 83,
+                "attendance_percentage": 83,
+                "status": "completed"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024B",
+                "grade": 97,
+                "attendance_percentage": 98,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST666",
+        "first_name": "Margaret",
+        "last_name": "Smith",
+        "email": "emccormick@example.com",
+        "phone": "001-820-776-9439x7724",
+        "gender": "male",
+        "birthdate": "2002-12-06",
+        "program_id": "PRG02",
+        "year": 4,
+        "status": "active",
+        "courses": [
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 86,
+                "attendance_percentage": 92,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024B",
+                "grade": 62,
+                "attendance_percentage": 72,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024A",
+                "grade": 77,
+                "attendance_percentage": 78,
+                "status": "in-progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST178",
+        "first_name": "Paula",
+        "last_name": "Hernandez",
+        "email": "tduncan@example.org",
+        "phone": "(330)660-6904x03661",
+        "gender": "female",
+        "birthdate": "2000-12-19",
+        "program_id": "PRG01",
+        "year": 3,
+        "status": "graduated",
+        "courses": [
+            {
+                "course_id": "IT300",
+                "semester": "2025A",
+                "grade": 76,
+                "attendance_percentage": 100,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "DS210",
+                "semester": "2024B",
+                "grade": 65,
+                "attendance_percentage": 77,
+                "status": "completed"
+            },
+            {
+                "course_id": "CS202",
+                "semester": "2024A",
+                "grade": 82,
+                "attendance_percentage": 87,
+                "status": "in-progress"
+            },
+            {
+                "course_id": "IT300",
+                "semester": "2024A",
+                "grade": 93,
+                "attendance_percentage": 83,
+                "status": "in-progress"
+            }
+        ]
+    }
+]

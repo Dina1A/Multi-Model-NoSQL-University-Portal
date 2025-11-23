@@ -1,0 +1,202 @@
+[
+    {
+        "key": "session:a6af10f4-77ca-4c65-ac7c-87f940b1cfab",
+        "value": {
+            "session_id": "a6af10f4-77ca-4c65-ac7c-87f940b1cfab",
+            "user_id": "ST442",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:afc30c22-23ff-435b-9388-294859e1210d",
+        "value": {
+            "session_id": "afc30c22-23ff-435b-9388-294859e1210d",
+            "user_id": "ST621",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:a9d389ab-00bb-4067-bebb-6d90863b7b70",
+        "value": {
+            "session_id": "a9d389ab-00bb-4067-bebb-6d90863b7b70",
+            "user_id": "ST121",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:85a0d88f-7f0e-4d34-8fd8-b911e85c9676",
+        "value": {
+            "session_id": "85a0d88f-7f0e-4d34-8fd8-b911e85c9676",
+            "user_id": "ST348",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:a5d1bd84-39a0-4629-a8b4-6283e5444dfb",
+        "value": {
+            "session_id": "a5d1bd84-39a0-4629-a8b4-6283e5444dfb",
+            "user_id": "ST142",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:3a16d220-232c-428e-beec-3b6d1cc95563",
+        "value": {
+            "session_id": "3a16d220-232c-428e-beec-3b6d1cc95563",
+            "user_id": "ST254",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:c16c4df2-6c9c-4bdc-a283-4fa4f6dc7496",
+        "value": {
+            "session_id": "c16c4df2-6c9c-4bdc-a283-4fa4f6dc7496",
+            "user_id": "ST198",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:56567369-61c5-43aa-ab03-dc82a2167613",
+        "value": {
+            "session_id": "56567369-61c5-43aa-ab03-dc82a2167613",
+            "user_id": "ST012",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:7ba62d70-16a1-4b4c-9a77-667678a6423e",
+        "value": {
+            "session_id": "7ba62d70-16a1-4b4c-9a77-667678a6423e",
+            "user_id": "ST762",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:17e6cd4e-58f8-4698-8431-3a209784ccb2",
+        "value": {
+            "session_id": "17e6cd4e-58f8-4698-8431-3a209784ccb2",
+            "user_id": "ST031",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:d90f2c40-8f9e-4308-992b-10e8d0fcd80c",
+        "value": {
+            "session_id": "d90f2c40-8f9e-4308-992b-10e8d0fcd80c",
+            "user_id": "ST508",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:d3caf3ac-41ac-4a1d-8151-1fdd51431949",
+        "value": {
+            "session_id": "d3caf3ac-41ac-4a1d-8151-1fdd51431949",
+            "user_id": "ST724",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:29e32766-f600-4532-a404-679da59d1bb8",
+        "value": {
+            "session_id": "29e32766-f600-4532-a404-679da59d1bb8",
+            "user_id": "ST876",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:77d2f0ef-207c-4736-bd0b-b2a276cc6eac",
+        "value": {
+            "session_id": "77d2f0ef-207c-4736-bd0b-b2a276cc6eac",
+            "user_id": "ST258",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:69d5f0fa-498e-4c99-85e2-9a55e5a315c3",
+        "value": {
+            "session_id": "69d5f0fa-498e-4c99-85e2-9a55e5a315c3",
+            "user_id": "ST868",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:8437e152-43c5-477a-92e1-1e0a94960b01",
+        "value": {
+            "session_id": "8437e152-43c5-477a-92e1-1e0a94960b01",
+            "user_id": "ST551",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:1620b58c-0abf-433a-a3c0-baed237a8857",
+        "value": {
+            "session_id": "1620b58c-0abf-433a-a3c0-baed237a8857",
+            "user_id": "ST300",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:de687525-3e0b-42aa-875b-038e1a1605ed",
+        "value": {
+            "session_id": "de687525-3e0b-42aa-875b-038e1a1605ed",
+            "user_id": "ST808",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:821bab19-4067-40e0-ba45-d022ae263039",
+        "value": {
+            "session_id": "821bab19-4067-40e0-ba45-d022ae263039",
+            "user_id": "ST666",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    },
+    {
+        "key": "session:5000f1c7-c07b-4c52-85ec-f7edf9203029",
+        "value": {
+            "session_id": "5000f1c7-c07b-4c52-85ec-f7edf9203029",
+            "user_id": "ST178",
+            "role": "student",
+            "created_at": "2025-11-23T12:40:37.017817",
+            "expires_at": "2025-11-23T14:40:37.017817"
+        }
+    }
+]

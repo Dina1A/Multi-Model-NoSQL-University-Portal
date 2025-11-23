@@ -1,0 +1,1574 @@
+[
+    {
+        "timestamp": "2025-11-23T05:56:21.481540",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "51.148.212.221"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T09:44:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "13.175.124.192"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T06:37:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "92.207.236.236"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T10:36:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "10.160.145.157"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T17:52:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "18.33.99.152"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T06:35:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "118.52.116.216"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:09:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "IT300",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "97.139.232.192"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:18:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "78.167.131.206"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T06:56:21.502496",
+        "meta": {
+            "student_id": "ST442",
+            "course_id": "CS101",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "145.211.65.161"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T07:54:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "142.9.170.219"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T15:15:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "138.195.12.8"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T18:16:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "184.196.151.213"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:26:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "16.138.220.243"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T11:46:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "49.154.125.228"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T21:02:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "46.99.56.96"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:44:21.502496",
+        "meta": {
+            "student_id": "ST621",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "132.46.121.129"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:34:21.502496",
+        "meta": {
+            "student_id": "ST121",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "85.126.196.172"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T11:40:21.502496",
+        "meta": {
+            "student_id": "ST121",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "174.103.83.55"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T22:28:21.502496",
+        "meta": {
+            "student_id": "ST121",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "188.223.63.160"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T12:29:21.505692",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "18.171.124.157"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T21:37:21.505692",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "193.144.129.26"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:09:21.505692",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "149.211.247.50"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T15:41:21.505692",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "114.172.6.70"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T13:08:21.505692",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "17.6.243.113"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T11:32:21.506132",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "211.125.255.55"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T09:47:21.506132",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS202",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "82.20.51.68"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T19:31:21.506132",
+        "meta": {
+            "student_id": "ST348",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "114.124.35.53"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T08:58:21.506132",
+        "meta": {
+            "student_id": "ST142",
+            "course_id": "CS202",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "18.147.188.96"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T04:08:21.506132",
+        "meta": {
+            "student_id": "ST142",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "182.151.159.133"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T12:26:21.506132",
+        "meta": {
+            "student_id": "ST142",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "199.102.22.17"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T14:01:21.506132",
+        "meta": {
+            "student_id": "ST142",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "72.248.221.157"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T10:58:21.506132",
+        "meta": {
+            "student_id": "ST142",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "59.2.180.218"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:47:21.506132",
+        "meta": {
+            "student_id": "ST254",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "12.117.145.168"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T11:16:21.506132",
+        "meta": {
+            "student_id": "ST254",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "162.194.38.180"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T10:24:21.506132",
+        "meta": {
+            "student_id": "ST254",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "104.102.141.123"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T07:35:21.506132",
+        "meta": {
+            "student_id": "ST254",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "152.150.250.74"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:14:21.506132",
+        "meta": {
+            "student_id": "ST254",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "68.222.70.188"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T23:13:21.506132",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "29.217.154.238"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:00:21.506132",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "38.31.102.219"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:01:21.506132",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "161.202.67.26"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T10:23:21.506132",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "135.113.139.184"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T13:49:21.506132",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "101.182.169.82"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T19:48:21.508140",
+        "meta": {
+            "student_id": "ST198",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "88.207.59.78"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T03:35:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "214.243.232.150"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T05:15:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "CS202",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "205.216.175.85"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:46:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "182.144.99.85"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T08:08:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "67.160.186.114"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T21:56:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "130.173.72.204"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T23:47:21.508140",
+        "meta": {
+            "student_id": "ST012",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "103.65.188.48"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:12:21.508140",
+        "meta": {
+            "student_id": "ST762",
+            "course_id": "IT300",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "187.108.238.4"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T05:40:21.508140",
+        "meta": {
+            "student_id": "ST762",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "165.251.103.204"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T10:08:21.508140",
+        "meta": {
+            "student_id": "ST762",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "139.213.182.34"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T08:07:21.508140",
+        "meta": {
+            "student_id": "ST762",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "98.138.135.242"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T09:02:21.508140",
+        "meta": {
+            "student_id": "ST762",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "112.83.221.22"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T09:39:21.508140",
+        "meta": {
+            "student_id": "ST031",
+            "course_id": "CS101",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "5.241.188.93"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:02:21.508140",
+        "meta": {
+            "student_id": "ST031",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "181.229.58.81"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T22:18:21.508140",
+        "meta": {
+            "student_id": "ST031",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "111.98.39.213"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T09:22:21.508140",
+        "meta": {
+            "student_id": "ST031",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "14.159.22.127"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T10:45:21.508140",
+        "meta": {
+            "student_id": "ST508",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "178.220.112.12"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:44:21.508140",
+        "meta": {
+            "student_id": "ST508",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "186.134.184.213"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:54:21.508140",
+        "meta": {
+            "student_id": "ST508",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "176.234.139.211"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T23:22:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "73.6.133.103"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:47:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "99.24.227.239"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T13:11:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "118.191.100.14"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:07:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "95.178.205.252"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T11:33:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "104.202.184.106"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T04:07:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "64.17.46.98"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T18:24:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "132.7.207.185"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T21:28:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "65.35.128.203"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:04:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "7.251.133.21"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T04:35:21.508140",
+        "meta": {
+            "student_id": "ST724",
+            "course_id": "CS202",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "134.19.131.84"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:42:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "102.29.201.209"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T22:15:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "50.206.23.241"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:23:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "149.13.202.187"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:31:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "89.208.111.117"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T03:27:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "110.190.67.132"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T11:31:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "71.248.177.42"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T11:08:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "52.109.252.65"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:13:21.508140",
+        "meta": {
+            "student_id": "ST876",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "81.196.92.23"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:16:21.508140",
+        "meta": {
+            "student_id": "ST258",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "25.0.152.87"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T10:33:21.511596",
+        "meta": {
+            "student_id": "ST258",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "85.17.107.254"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T09:00:21.511596",
+        "meta": {
+            "student_id": "ST258",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "60.140.168.175"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:38:21.511596",
+        "meta": {
+            "student_id": "ST258",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "143.160.51.45"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T13:12:21.511596",
+        "meta": {
+            "student_id": "ST258",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "16.60.162.210"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T19:43:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "20.126.146.120"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:28:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "159.241.142.247"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:30:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "157.56.151.80"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T09:42:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "168.231.155.69"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:03:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "CS202",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "97.201.21.73"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:00:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "CS101",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "40.60.243.231"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:44:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "CS101",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "92.77.129.5"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T17:22:21.511596",
+        "meta": {
+            "student_id": "ST868",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "103.59.227.238"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T12:49:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "184.110.210.196"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:40:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS101",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "176.100.248.144"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:03:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS101",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "74.27.126.211"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T05:11:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS202",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "124.89.96.186"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:29:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "168.2.165.167"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:48:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "59.155.110.194"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:31:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS101",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "151.85.28.25"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:57:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS101",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "120.224.168.198"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:15:21.511596",
+        "meta": {
+            "student_id": "ST551",
+            "course_id": "CS202",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "198.153.255.106"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T06:03:21.511596",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "IT300",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "121.106.76.1"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:15:21.511596",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "CS202",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "129.245.118.190"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T14:38:21.511596",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "200.148.246.76"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:20:21.511596",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "DS210",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "30.129.87.68"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T00:39:21.511596",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "190.66.9.26"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:45:21.513604",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "51.239.99.12"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:56:21.513604",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "210.215.145.37"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:47:21.513604",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "IT300",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "101.3.18.45"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T07:18:21.513604",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "112.8.166.63"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:19:21.513604",
+        "meta": {
+            "student_id": "ST300",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "58.112.130.198"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T22:36:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "IT300",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "189.37.176.59"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:28:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "DS210",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "44.160.169.26"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T00:08:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "DS210",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "184.169.230.129"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T05:45:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "222.73.117.45"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T16:15:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "IT300",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "169.123.85.219"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T04:16:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "122.65.218.77"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T14:45:21.513604",
+        "meta": {
+            "student_id": "ST808",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "29.154.88.173"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T06:07:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "34.187.53.219"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T04:09:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "28.170.163.140"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T04:33:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "120.137.117.86"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T22:40:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "login"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "117.116.29.143"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T23:09:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "41.248.213.193"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T14:42:21.513604",
+        "meta": {
+            "student_id": "ST666",
+            "course_id": "CS202",
+            "type": "submission"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "51.158.86.30"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T06:23:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "111.98.244.55"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T08:20:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "67.81.176.170"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T23:15:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "DS210",
+            "type": "login"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "160.46.25.136"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T01:11:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "DS210",
+            "type": "attendance"
+        },
+        "details": {
+            "device": "Chrome",
+            "ip": "110.2.14.96"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T02:54:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "IT300",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "72.75.55.174"
+        }
+    },
+    {
+        "timestamp": "2025-11-23T03:38:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "CS202",
+            "type": "logout"
+        },
+        "details": {
+            "device": "Safari",
+            "ip": "104.26.214.245"
+        }
+    },
+    {
+        "timestamp": "2025-11-22T14:06:21.513604",
+        "meta": {
+            "student_id": "ST178",
+            "course_id": "CS202",
+            "type": "quiz"
+        },
+        "details": {
+            "device": "Firefox",
+            "ip": "216.14.94.136"
+        }
+    }
+]

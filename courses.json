@@ -1,0 +1,18 @@
+[
+    {
+        "course_id": "CS101",
+        "course_name": "Introduction to Programming",
+        "credits": 3,
+        "level": 1,
+        "department": "Computer Science",
+        "description": "Basics of coding using Python."
+    },
+    {
+        "course_id": "CS202",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "level": 2,
+        "department": "Computer Science",
+        "description": "Study of arrays, linked lists, stacks, queues, etc."
+    }
+]
