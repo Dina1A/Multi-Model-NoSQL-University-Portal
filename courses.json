@@ -1,50 +1,32 @@
 [
     {
         "course_id": "CS101",
-        "course_name": "Introduction to Programming",
+        "course_name": "Intro to Programming",
         "credits": 3,
-        "level": 3,
-        "department": "Computer Science",
-        "description": "Introduction to Programming course."
+        "instructor_id": "I1"
     },
     {
-        "course_id": "CS202",
-        "course_name": "Data Structures",
-        "credits": 4,
-        "level": 3,
-        "department": "Computer Science",
-        "description": "Data Structures course."
-    },
-    {
-        "course_id": "IT300",
-        "course_name": "Networks Fundamentals",
+        "course_id": "CS102",
+        "course_name": "Algorithms",
         "credits": 3,
-        "level": 2,
-        "department": "Computer Science",
-        "description": "Networks Fundamentals course."
+        "instructor_id": "I2"
     },
     {
-        "course_id": "DS210",
-        "course_name": "Intro to Data Science",
-        "credits": 3,
-        "level": 4,
-        "department": "Computer Science",
-        "description": "Intro to Data Science course."
-    },
-    {
-        "course_id": "CS310",
+        "course_id": "CS103",
         "course_name": "Databases",
-        "credits": 4,
-        "level": 4,
-        "department": "Computer Science",
-        "description": "Databases course."
+        "credits": 3,
+        "instructor_id": "I1"
     },
     {
-        "course_id": "CS330",
+        "course_id": "CS104",
         "course_name": "Operating Systems",
         "credits": 3,
-        "level": 3,
-        "department": "Computer Science",
-        "description": "Operating Systems course."
+        "instructor_id": "I3"
+    },
+    {
+        "course_id": "CS105",
+        "course_name": "Networks",
+        "credits": 3,
+        "instructor_id": "I2"
     }
 ]

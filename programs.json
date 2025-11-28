@@ -1,29 +1,17 @@
 [
     {
-        "program_id": "PRG01",
+        "program_id": "CS",
         "name": "Computer Science",
-        "faculty": "IT",
-        "degree_type": "BSc",
-        "required_credits": 132,
-        "duration_years": 4,
-        "description": "CS program focusing on algorithms, systems, and software."
+        "department": "Engineering"
     },
     {
-        "program_id": "PRG02",
+        "program_id": "IT",
         "name": "Information Technology",
-        "faculty": "IT",
-        "degree_type": "BSc",
-        "required_credits": 132,
-        "duration_years": 4,
-        "description": "IT program focusing on networks, security, and systems."
+        "department": "Engineering"
     },
     {
-        "program_id": "PRG03",
-        "name": "Data Science",
-        "faculty": "IT",
-        "degree_type": "BSc",
-        "required_credits": 132,
-        "duration_years": 4,
-        "description": "Program focusing on analytics and machine learning."
+        "program_id": "SE",
+        "name": "Software Engineering",
+        "department": "Engineering"
     }
 ]
