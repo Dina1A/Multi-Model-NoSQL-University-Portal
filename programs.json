@@ -1,17 +1,26 @@
 [
     {
-        "program_id": "CS",
-        "name": "Computer Science",
-        "department": "Engineering"
+        "program_id": "CSE",
+        "name": "Computer Systems Engineering",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162
     },
     {
         "program_id": "IT",
         "name": "Information Technology",
-        "department": "Engineering"
+        "department": "IT",
+        "degree": "Bachelor",
+        "duration_years": 4,
+        "total_credits": 132
     },
     {
-        "program_id": "SE",
-        "name": "Software Engineering",
-        "department": "Engineering"
+        "program_id": "DS",
+        "name": "Data Science",
+        "department": "IT",
+        "degree": "Bachelor",
+        "duration_years": 4,
+        "total_credits": 132
     }
 ]

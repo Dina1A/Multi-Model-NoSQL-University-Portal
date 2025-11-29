@@ -1,32 +1,322 @@
 [
     {
-        "course_id": "CS101",
-        "course_name": "Intro to Programming",
-        "credits": 3,
-        "instructor_id": "I1"
+        "course_id": "CSE247",
+        "name": "Cloned clear-thinking structure",
+        "credits": 4,
+        "instructor_id": "INS106",
+        "prerequisites": [],
+        "level": "Senior"
     },
     {
-        "course_id": "CS102",
-        "course_name": "Algorithms",
+        "course_id": "CSE318",
+        "name": "Open-architected holistic project",
         "credits": 3,
-        "instructor_id": "I2"
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Junior"
     },
     {
-        "course_id": "CS103",
-        "course_name": "Databases",
+        "course_id": "CSE237",
+        "name": "Function-based needs-based Internet solution",
         "credits": 3,
-        "instructor_id": "I1"
+        "instructor_id": "INS106",
+        "prerequisites": [],
+        "level": "Sophomore"
     },
     {
-        "course_id": "CS104",
-        "course_name": "Operating Systems",
+        "course_id": "CSE246",
+        "name": "Future-proofed directional challenge",
         "credits": 3,
-        "instructor_id": "I3"
+        "instructor_id": "INS112",
+        "prerequisites": [],
+        "level": "Senior"
     },
     {
-        "course_id": "CS105",
-        "course_name": "Networks",
+        "course_id": "CSE450",
+        "name": "Automated client-server support",
+        "credits": 2,
+        "instructor_id": "INS112",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE462",
+        "name": "Multi-tiered context-sensitive attitude",
         "credits": 3,
-        "instructor_id": "I2"
+        "instructor_id": "INS111",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE330",
+        "name": "Optional logistical project",
+        "credits": 3,
+        "instructor_id": "INS102",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE272",
+        "name": "Extended analyzing standardization",
+        "credits": 3,
+        "instructor_id": "INS114",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE329",
+        "name": "Persistent modular model",
+        "credits": 2,
+        "instructor_id": "INS107",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE499",
+        "name": "Advanced dynamic help-desk",
+        "credits": 3,
+        "instructor_id": "INS109",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE449",
+        "name": "Multi-layered needs-based forecast",
+        "credits": 2,
+        "instructor_id": "INS101",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE200",
+        "name": "Total radical system engine",
+        "credits": 2,
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE387",
+        "name": "Intuitive hybrid help-desk",
+        "credits": 4,
+        "instructor_id": "INS104",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE344",
+        "name": "Polarized non-volatile secured line",
+        "credits": 3,
+        "instructor_id": "INS108",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE259",
+        "name": "Cross-platform radical capability",
+        "credits": 2,
+        "instructor_id": "INS103",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE217",
+        "name": "Enhanced heuristic approach",
+        "credits": 3,
+        "instructor_id": "INS110",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE268",
+        "name": "Re-contextualized executive methodology",
+        "credits": 3,
+        "instructor_id": "INS103",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE299",
+        "name": "Quality-focused intangible capability",
+        "credits": 4,
+        "instructor_id": "INS103",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE437",
+        "name": "Down-sized multimedia intranet",
+        "credits": 2,
+        "instructor_id": "INS107",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE460",
+        "name": "Streamlined human-resource knowledgebase",
+        "credits": 4,
+        "instructor_id": "INS105",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE205",
+        "name": "Switchable secondary strategy",
+        "credits": 2,
+        "instructor_id": "INS113",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE335",
+        "name": "Diverse transitional access",
+        "credits": 3,
+        "instructor_id": "INS103",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE474",
+        "name": "Synergized 3rdgeneration pricing structure",
+        "credits": 2,
+        "instructor_id": "INS101",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE298",
+        "name": "Streamlined bifurcated support",
+        "credits": 3,
+        "instructor_id": "INS104",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE327",
+        "name": "Phased systematic time-frame",
+        "credits": 3,
+        "instructor_id": "INS111",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE491",
+        "name": "Right-sized client-driven projection",
+        "credits": 4,
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE487",
+        "name": "Total 4thgeneration hardware",
+        "credits": 4,
+        "instructor_id": "INS112",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE374",
+        "name": "Multi-channeled regional matrices",
+        "credits": 3,
+        "instructor_id": "INS111",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE458",
+        "name": "Business-focused bandwidth-monitored solution",
+        "credits": 3,
+        "instructor_id": "INS105",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE373",
+        "name": "Organized grid-enabled neural-net",
+        "credits": 4,
+        "instructor_id": "INS108",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE243",
+        "name": "Face-to-face responsive paradigm",
+        "credits": 4,
+        "instructor_id": "INS105",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE341",
+        "name": "Robust zero administration circuit",
+        "credits": 2,
+        "instructor_id": "INS107",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE343",
+        "name": "Open-architected optimizing budgetary management",
+        "credits": 2,
+        "instructor_id": "INS114",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE458",
+        "name": "Integrated encompassing hardware",
+        "credits": 2,
+        "instructor_id": "INS111",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE384",
+        "name": "Optional transitional encryption",
+        "credits": 4,
+        "instructor_id": "INS106",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE358",
+        "name": "Total multimedia success",
+        "credits": 3,
+        "instructor_id": "INS114",
+        "prerequisites": [],
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE375",
+        "name": "Self-enabling fault-tolerant ability",
+        "credits": 3,
+        "instructor_id": "INS109",
+        "prerequisites": [],
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE285",
+        "name": "Secured value-added neural-net",
+        "credits": 3,
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE234",
+        "name": "Sharable object-oriented middleware",
+        "credits": 2,
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE444",
+        "name": "Devolved scalable parallelism",
+        "credits": 4,
+        "instructor_id": "INS115",
+        "prerequisites": [],
+        "level": "Senior"
     }
 ]

@@ -1,0 +1,122 @@
+[
+    {
+        "instructor_id": "INS100",
+        "name": "Joan Herring",
+        "email": "michaelsmith@example.org",
+        "department": "CS",
+        "office": "B-448",
+        "office_hours": "Thu 1-3"
+    },
+    {
+        "instructor_id": "INS101",
+        "name": "Mr. Bobby Keller",
+        "email": "uharvey@example.org",
+        "department": "Computer Engineering",
+        "office": "A-174",
+        "office_hours": "Mon 12-2"
+    },
+    {
+        "instructor_id": "INS102",
+        "name": "Pamela Perez",
+        "email": "robin47@example.com",
+        "department": "CS",
+        "office": "C-130",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS103",
+        "name": "Jose Moreno",
+        "email": "kimpaul@example.org",
+        "department": "CS",
+        "office": "A-390",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS104",
+        "name": "Melissa Powers DDS",
+        "email": "yangtracey@example.org",
+        "department": "Computer Engineering",
+        "office": "A-182",
+        "office_hours": "Mon 12-2"
+    },
+    {
+        "instructor_id": "INS105",
+        "name": "Lauren Lee",
+        "email": "damondunn@example.org",
+        "department": "Computer Engineering",
+        "office": "C-464",
+        "office_hours": "Thu 1-3"
+    },
+    {
+        "instructor_id": "INS106",
+        "name": "Nancy Bond",
+        "email": "smithjames@example.org",
+        "department": "Computer Engineering",
+        "office": "A-422",
+        "office_hours": "Mon 12-2"
+    },
+    {
+        "instructor_id": "INS107",
+        "name": "Kathleen Ball",
+        "email": "dwong@example.org",
+        "department": "CS",
+        "office": "B-152",
+        "office_hours": "Thu 1-3"
+    },
+    {
+        "instructor_id": "INS108",
+        "name": "Stephanie Hicks",
+        "email": "vmiller@example.com",
+        "department": "Computer Engineering",
+        "office": "C-273",
+        "office_hours": "Mon 12-2"
+    },
+    {
+        "instructor_id": "INS109",
+        "name": "Michelle Wu",
+        "email": "bethany24@example.com",
+        "department": "IT",
+        "office": "A-215",
+        "office_hours": "Mon 12-2"
+    },
+    {
+        "instructor_id": "INS110",
+        "name": "Christina Soto",
+        "email": "richardslarry@example.org",
+        "department": "Computer Engineering",
+        "office": "C-267",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS111",
+        "name": "Julie Ray",
+        "email": "susanenglish@example.org",
+        "department": "IT",
+        "office": "C-365",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS112",
+        "name": "Brian Stout",
+        "email": "gskinner@example.org",
+        "department": "Computer Engineering",
+        "office": "A-444",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS113",
+        "name": "Rita Fisher",
+        "email": "harrisnicole@example.com",
+        "department": "IT",
+        "office": "A-348",
+        "office_hours": "Tue 10-12"
+    },
+    {
+        "instructor_id": "INS114",
+        "name": "Joseph Love",
+        "email": "bmurray@example.com",
+        "department": "Computer Engineering",
+        "office": "A-367",
+        "office_hours": "Mon 12-2"
+    }
+]
