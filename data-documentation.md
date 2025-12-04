@@ -45,7 +45,9 @@
 }
 ✔ يحتوي الطالب بين 3–6 مواد
 ✔ فقط 8% من الطلاب لديهم مواد Failed
+    
 ---
+    
 ## 📚 3) Courses (MongoDB – Document)
 ### Structure
 ```json 
@@ -58,7 +60,9 @@
 }
 ✔ لا يحتوي على prerequisites
 ✔ كل كورس مرتبط بمدرّس واحد
+
 ---
+    
 ## 👨‍🏫 4) Instructors (MongoDB – Document)
 ### Structure
 ```json   
@@ -72,7 +76,9 @@
 }
 ✔ عدد المدرسين = 20
 ✔ المدرّس قد يدرّس أكثر من مساق
+    
 ---
+    
 ##  🏛 5) Programs (MongoDB – Document)
 ### Structure
 ```json              
@@ -93,7 +99,9 @@
 }
 ✔ يوجد 5 برامج
 ✔ كل برنامج له 5 كورسات Required
+    
 ---
+    
 ❌ Models Not Included in This Release
 Model	Status
 Activity Logs	غير موجود
