@@ -1,282 +1,282 @@
 [
     {
-        "course_id": "CSE051",
+        "course_id": "CSE229",
+        "course_name": "AI Fundamentals",
+        "credits": 4,
+        "instructor_id": "INS005",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE221",
+        "course_name": "Parallel Computing",
+        "credits": 2,
+        "instructor_id": "INS010",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE365",
+        "course_name": "Machine Learning",
+        "credits": 3,
+        "instructor_id": "INS017",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE304",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "instructor_id": "INS017",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE360",
+        "course_name": "Operating Systems",
+        "credits": 3,
+        "instructor_id": "INS003",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE432",
+        "course_name": "Cyber Security",
+        "credits": 2,
+        "instructor_id": "INS002",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE198",
+        "course_name": "Operating Systems",
+        "credits": 4,
+        "instructor_id": "INS006",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE415",
+        "course_name": "AI Fundamentals",
+        "credits": 3,
+        "instructor_id": "INS013",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE293",
         "course_name": "Advanced Microprocessors",
         "credits": 4,
-        "instructor_id": "INS471",
+        "instructor_id": "INS008",
         "level": "Freshman"
     },
     {
-        "course_id": "CSE607",
+        "course_id": "CSE276",
         "course_name": "Software Engineering",
-        "credits": 4,
-        "instructor_id": "INS868",
+        "credits": 2,
+        "instructor_id": "INS001",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE259",
+        "course_name": "Software Engineering",
+        "credits": 2,
+        "instructor_id": "INS004",
         "level": "Junior"
     },
     {
-        "course_id": "CSE096",
-        "course_name": "Networks",
+        "course_id": "CSE288",
+        "course_name": "Web Development",
         "credits": 2,
-        "instructor_id": "INS479",
-        "level": "Junior"
+        "instructor_id": "INS008",
+        "level": "Senior"
     },
     {
-        "course_id": "CSE887",
-        "course_name": "AI Fundamentals",
-        "credits": 2,
-        "instructor_id": "INS694",
+        "course_id": "CSE120",
+        "course_name": "Algorithms",
+        "credits": 3,
+        "instructor_id": "INS020",
         "level": "Freshman"
     },
     {
-        "course_id": "CSE908",
+        "course_id": "CSE274",
         "course_name": "Advanced Microprocessors",
-        "credits": 4,
-        "instructor_id": "INS389",
+        "credits": 2,
+        "instructor_id": "INS018",
         "level": "Senior"
     },
     {
-        "course_id": "CSE050",
-        "course_name": "Software Engineering",
-        "credits": 2,
-        "instructor_id": "INS854",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE377",
-        "course_name": "AI Fundamentals",
-        "credits": 2,
-        "instructor_id": "INS241",
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE991",
-        "course_name": "Data Structures",
-        "credits": 3,
-        "instructor_id": "INS129",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE406",
-        "course_name": "Networks",
-        "credits": 4,
-        "instructor_id": "INS260",
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE085",
+        "course_id": "CSE433",
         "course_name": "Software Engineering",
         "credits": 4,
-        "instructor_id": "INS689",
+        "instructor_id": "INS017",
         "level": "Freshman"
     },
     {
-        "course_id": "CSE702",
-        "course_name": "AI Fundamentals",
-        "credits": 3,
-        "instructor_id": "INS360",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE178",
-        "course_name": "Web Development",
-        "credits": 3,
-        "instructor_id": "INS061",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE909",
+        "course_id": "CSE300",
         "course_name": "Web Development",
         "credits": 2,
-        "instructor_id": "INS321",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE010",
-        "course_name": "Operating Systems",
-        "credits": 2,
-        "instructor_id": "INS300",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE479",
-        "course_name": "Operating Systems",
-        "credits": 4,
-        "instructor_id": "INS771",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE368",
-        "course_name": "Database Systems",
-        "credits": 3,
-        "instructor_id": "INS827",
+        "instructor_id": "INS015",
         "level": "Sophomore"
     },
     {
-        "course_id": "CSE999",
-        "course_name": "Data Structures",
-        "credits": 3,
-        "instructor_id": "INS800",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE834",
-        "course_name": "Data Structures",
-        "credits": 4,
-        "instructor_id": "INS396",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE134",
-        "course_name": "Software Engineering",
-        "credits": 2,
-        "instructor_id": "INS263",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE523",
-        "course_name": "Database Systems",
-        "credits": 2,
-        "instructor_id": "INS535",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE812",
-        "course_name": "Data Structures",
-        "credits": 2,
-        "instructor_id": "INS216",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE673",
-        "course_name": "Database Systems",
-        "credits": 4,
-        "instructor_id": "INS298",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE062",
-        "course_name": "Parallel Computing",
-        "credits": 4,
-        "instructor_id": "INS703",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE598",
-        "course_name": "Computer Architecture",
-        "credits": 4,
-        "instructor_id": "INS418",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE697",
-        "course_name": "Networks",
-        "credits": 2,
-        "instructor_id": "INS291",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE460",
-        "course_name": "AI Fundamentals",
-        "credits": 4,
-        "instructor_id": "INS076",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE447",
-        "course_name": "Embedded Systems",
-        "credits": 4,
-        "instructor_id": "INS097",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE321",
-        "course_name": "Data Structures",
-        "credits": 4,
-        "instructor_id": "INS399",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE493",
-        "course_name": "Operating Systems",
-        "credits": 2,
-        "instructor_id": "INS709",
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE736",
-        "course_name": "Data Structures",
-        "credits": 3,
-        "instructor_id": "INS650",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE070",
-        "course_name": "AI Fundamentals",
-        "credits": 3,
-        "instructor_id": "INS610",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE336",
-        "course_name": "Parallel Computing",
-        "credits": 4,
-        "instructor_id": "INS509",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE963",
-        "course_name": "Software Engineering",
-        "credits": 3,
-        "instructor_id": "INS221",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE879",
-        "course_name": "AI Fundamentals",
-        "credits": 4,
-        "instructor_id": "INS482",
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE166",
-        "course_name": "Parallel Computing",
-        "credits": 4,
-        "instructor_id": "INS503",
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE885",
-        "course_name": "Parallel Computing",
-        "credits": 2,
-        "instructor_id": "INS275",
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE707",
-        "course_name": "Embedded Systems",
-        "credits": 3,
-        "instructor_id": "INS950",
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE363",
+        "course_id": "CSE435",
         "course_name": "Computer Architecture",
         "credits": 3,
-        "instructor_id": "INS157",
-        "level": "Senior"
+        "instructor_id": "INS019",
+        "level": "Freshman"
     },
     {
-        "course_id": "CSE399",
-        "course_name": "Web Development",
-        "credits": 2,
-        "instructor_id": "INS720",
+        "course_id": "CSE340",
+        "course_name": "AI Fundamentals",
+        "credits": 4,
+        "instructor_id": "INS002",
         "level": "Sophomore"
     },
     {
-        "course_id": "CSE936",
+        "course_id": "CSE205",
         "course_name": "Data Structures",
+        "credits": 4,
+        "instructor_id": "INS011",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE138",
+        "course_name": "Advanced Microprocessors",
         "credits": 2,
-        "instructor_id": "INS598",
+        "instructor_id": "INS020",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE378",
+        "course_name": "Embedded Systems",
+        "credits": 4,
+        "instructor_id": "INS015",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE165",
+        "course_name": "Cyber Security",
+        "credits": 4,
+        "instructor_id": "INS016",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE189",
+        "course_name": "Embedded Systems",
+        "credits": 2,
+        "instructor_id": "INS006",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE102",
+        "course_name": "AI Fundamentals",
+        "credits": 4,
+        "instructor_id": "INS018",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE204",
+        "course_name": "Machine Learning",
+        "credits": 3,
+        "instructor_id": "INS018",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE190",
+        "course_name": "Advanced Microprocessors",
+        "credits": 3,
+        "instructor_id": "INS013",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE160",
+        "course_name": "Database Systems",
+        "credits": 4,
+        "instructor_id": "INS004",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE240",
+        "course_name": "Software Engineering",
+        "credits": 2,
+        "instructor_id": "INS015",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE371",
+        "course_name": "Operating Systems",
+        "credits": 3,
+        "instructor_id": "INS004",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE176",
+        "course_name": "Software Engineering",
+        "credits": 3,
+        "instructor_id": "INS013",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE401",
+        "course_name": "Database Systems",
+        "credits": 3,
+        "instructor_id": "INS006",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE449",
+        "course_name": "Web Development",
+        "credits": 2,
+        "instructor_id": "INS016",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE117",
+        "course_name": "Algorithms",
+        "credits": 4,
+        "instructor_id": "INS013",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE477",
+        "course_name": "Web Development",
+        "credits": 4,
+        "instructor_id": "INS001",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE335",
+        "course_name": "Embedded Systems",
+        "credits": 3,
+        "instructor_id": "INS013",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE213",
+        "course_name": "Advanced Microprocessors",
+        "credits": 2,
+        "instructor_id": "INS019",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE466",
+        "course_name": "Algorithms",
+        "credits": 4,
+        "instructor_id": "INS016",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE188",
+        "course_name": "Operating Systems",
+        "credits": 4,
+        "instructor_id": "INS019",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE302",
+        "course_name": "Database Systems",
+        "credits": 2,
+        "instructor_id": "INS003",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE236",
+        "course_name": "Machine Learning",
+        "credits": 2,
+        "instructor_id": "INS011",
         "level": "Freshman"
     }
 ]

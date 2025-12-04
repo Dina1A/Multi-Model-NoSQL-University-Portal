@@ -7,11 +7,11 @@
         "duration_years": 5,
         "total_credits": 162,
         "required_courses": [
-            "CSE523",
-            "CSE377",
-            "CSE051",
-            "CSE991",
-            "CSE607"
+            "CSE304",
+            "CSE204",
+            "CSE176",
+            "CSE433",
+            "CSE340"
         ]
     },
     {
@@ -22,11 +22,11 @@
         "duration_years": 5,
         "total_credits": 162,
         "required_courses": [
-            "CSE493",
-            "CSE460",
-            "CSE050",
-            "CSE096",
-            "CSE963"
+            "CSE240",
+            "CSE293",
+            "CSE102",
+            "CSE371",
+            "CSE198"
         ]
     },
     {
@@ -37,11 +37,11 @@
         "duration_years": 5,
         "total_credits": 162,
         "required_courses": [
-            "CSE697",
-            "CSE096",
-            "CSE134",
-            "CSE377",
-            "CSE963"
+            "CSE102",
+            "CSE176",
+            "CSE240",
+            "CSE274",
+            "CSE198"
         ]
     },
     {
@@ -52,11 +52,11 @@
         "duration_years": 5,
         "total_credits": 162,
         "required_courses": [
-            "CSE377",
-            "CSE399",
-            "CSE887",
-            "CSE010",
-            "CSE885"
+            "CSE213",
+            "CSE259",
+            "CSE176",
+            "CSE432",
+            "CSE229"
         ]
     },
     {
@@ -67,11 +67,11 @@
         "duration_years": 5,
         "total_credits": 162,
         "required_courses": [
-            "CSE991",
-            "CSE936",
-            "CSE909",
-            "CSE879",
-            "CSE377"
+            "CSE198",
+            "CSE288",
+            "CSE415",
+            "CSE433",
+            "CSE274"
         ]
     }
 ]
