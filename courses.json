@@ -1,322 +1,282 @@
 [
     {
-        "course_id": "CSE247",
-        "name": "Cloned clear-thinking structure",
+        "course_id": "CSE051",
+        "course_name": "Advanced Microprocessors",
         "credits": 4,
-        "instructor_id": "INS106",
-        "prerequisites": [],
-        "level": "Senior"
+        "instructor_id": "INS471",
+        "level": "Freshman"
     },
     {
-        "course_id": "CSE318",
-        "name": "Open-architected holistic project",
-        "credits": 3,
-        "instructor_id": "INS115",
-        "prerequisites": [],
+        "course_id": "CSE607",
+        "course_name": "Software Engineering",
+        "credits": 4,
+        "instructor_id": "INS868",
         "level": "Junior"
     },
     {
-        "course_id": "CSE237",
-        "name": "Function-based needs-based Internet solution",
-        "credits": 3,
-        "instructor_id": "INS106",
-        "prerequisites": [],
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE246",
-        "name": "Future-proofed directional challenge",
-        "credits": 3,
-        "instructor_id": "INS112",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE450",
-        "name": "Automated client-server support",
+        "course_id": "CSE096",
+        "course_name": "Networks",
         "credits": 2,
-        "instructor_id": "INS112",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE462",
-        "name": "Multi-tiered context-sensitive attitude",
-        "credits": 3,
-        "instructor_id": "INS111",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE330",
-        "name": "Optional logistical project",
-        "credits": 3,
-        "instructor_id": "INS102",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE272",
-        "name": "Extended analyzing standardization",
-        "credits": 3,
-        "instructor_id": "INS114",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE329",
-        "name": "Persistent modular model",
-        "credits": 2,
-        "instructor_id": "INS107",
-        "prerequisites": [],
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE499",
-        "name": "Advanced dynamic help-desk",
-        "credits": 3,
-        "instructor_id": "INS109",
-        "prerequisites": [],
+        "instructor_id": "INS479",
         "level": "Junior"
     },
     {
-        "course_id": "CSE449",
-        "name": "Multi-layered needs-based forecast",
+        "course_id": "CSE887",
+        "course_name": "AI Fundamentals",
         "credits": 2,
-        "instructor_id": "INS101",
-        "prerequisites": [],
+        "instructor_id": "INS694",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE908",
+        "course_name": "Advanced Microprocessors",
+        "credits": 4,
+        "instructor_id": "INS389",
         "level": "Senior"
     },
     {
-        "course_id": "CSE200",
-        "name": "Total radical system engine",
+        "course_id": "CSE050",
+        "course_name": "Software Engineering",
         "credits": 2,
-        "instructor_id": "INS115",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE387",
-        "name": "Intuitive hybrid help-desk",
-        "credits": 4,
-        "instructor_id": "INS104",
-        "prerequisites": [],
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE344",
-        "name": "Polarized non-volatile secured line",
-        "credits": 3,
-        "instructor_id": "INS108",
-        "prerequisites": [],
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE259",
-        "name": "Cross-platform radical capability",
-        "credits": 2,
-        "instructor_id": "INS103",
-        "prerequisites": [],
+        "instructor_id": "INS854",
         "level": "Senior"
     },
     {
-        "course_id": "CSE217",
-        "name": "Enhanced heuristic approach",
-        "credits": 3,
-        "instructor_id": "INS110",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE268",
-        "name": "Re-contextualized executive methodology",
-        "credits": 3,
-        "instructor_id": "INS103",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE299",
-        "name": "Quality-focused intangible capability",
-        "credits": 4,
-        "instructor_id": "INS103",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE437",
-        "name": "Down-sized multimedia intranet",
+        "course_id": "CSE377",
+        "course_name": "AI Fundamentals",
         "credits": 2,
-        "instructor_id": "INS107",
-        "prerequisites": [],
+        "instructor_id": "INS241",
         "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE991",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "instructor_id": "INS129",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE406",
+        "course_name": "Networks",
+        "credits": 4,
+        "instructor_id": "INS260",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE085",
+        "course_name": "Software Engineering",
+        "credits": 4,
+        "instructor_id": "INS689",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE702",
+        "course_name": "AI Fundamentals",
+        "credits": 3,
+        "instructor_id": "INS360",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE178",
+        "course_name": "Web Development",
+        "credits": 3,
+        "instructor_id": "INS061",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE909",
+        "course_name": "Web Development",
+        "credits": 2,
+        "instructor_id": "INS321",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE010",
+        "course_name": "Operating Systems",
+        "credits": 2,
+        "instructor_id": "INS300",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE479",
+        "course_name": "Operating Systems",
+        "credits": 4,
+        "instructor_id": "INS771",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE368",
+        "course_name": "Database Systems",
+        "credits": 3,
+        "instructor_id": "INS827",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE999",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "instructor_id": "INS800",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE834",
+        "course_name": "Data Structures",
+        "credits": 4,
+        "instructor_id": "INS396",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE134",
+        "course_name": "Software Engineering",
+        "credits": 2,
+        "instructor_id": "INS263",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE523",
+        "course_name": "Database Systems",
+        "credits": 2,
+        "instructor_id": "INS535",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE812",
+        "course_name": "Data Structures",
+        "credits": 2,
+        "instructor_id": "INS216",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE673",
+        "course_name": "Database Systems",
+        "credits": 4,
+        "instructor_id": "INS298",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE062",
+        "course_name": "Parallel Computing",
+        "credits": 4,
+        "instructor_id": "INS703",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE598",
+        "course_name": "Computer Architecture",
+        "credits": 4,
+        "instructor_id": "INS418",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE697",
+        "course_name": "Networks",
+        "credits": 2,
+        "instructor_id": "INS291",
+        "level": "Freshman"
     },
     {
         "course_id": "CSE460",
-        "name": "Streamlined human-resource knowledgebase",
+        "course_name": "AI Fundamentals",
         "credits": 4,
-        "instructor_id": "INS105",
-        "prerequisites": [],
+        "instructor_id": "INS076",
         "level": "Junior"
     },
     {
-        "course_id": "CSE205",
-        "name": "Switchable secondary strategy",
+        "course_id": "CSE447",
+        "course_name": "Embedded Systems",
+        "credits": 4,
+        "instructor_id": "INS097",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "CSE321",
+        "course_name": "Data Structures",
+        "credits": 4,
+        "instructor_id": "INS399",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE493",
+        "course_name": "Operating Systems",
         "credits": 2,
-        "instructor_id": "INS113",
-        "prerequisites": [],
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE335",
-        "name": "Diverse transitional access",
-        "credits": 3,
-        "instructor_id": "INS103",
-        "prerequisites": [],
+        "instructor_id": "INS709",
         "level": "Sophomore"
     },
     {
-        "course_id": "CSE474",
-        "name": "Synergized 3rdgeneration pricing structure",
-        "credits": 2,
-        "instructor_id": "INS101",
-        "prerequisites": [],
-        "level": "Sophomore"
+        "course_id": "CSE736",
+        "course_name": "Data Structures",
+        "credits": 3,
+        "instructor_id": "INS650",
+        "level": "Freshman"
     },
     {
-        "course_id": "CSE298",
-        "name": "Streamlined bifurcated support",
+        "course_id": "CSE070",
+        "course_name": "AI Fundamentals",
         "credits": 3,
-        "instructor_id": "INS104",
-        "prerequisites": [],
+        "instructor_id": "INS610",
         "level": "Junior"
     },
     {
-        "course_id": "CSE327",
-        "name": "Phased systematic time-frame",
+        "course_id": "CSE336",
+        "course_name": "Parallel Computing",
+        "credits": 4,
+        "instructor_id": "INS509",
+        "level": "Senior"
+    },
+    {
+        "course_id": "CSE963",
+        "course_name": "Software Engineering",
         "credits": 3,
-        "instructor_id": "INS111",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE491",
-        "name": "Right-sized client-driven projection",
-        "credits": 4,
-        "instructor_id": "INS115",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE487",
-        "name": "Total 4thgeneration hardware",
-        "credits": 4,
-        "instructor_id": "INS112",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE374",
-        "name": "Multi-channeled regional matrices",
-        "credits": 3,
-        "instructor_id": "INS111",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE458",
-        "name": "Business-focused bandwidth-monitored solution",
-        "credits": 3,
-        "instructor_id": "INS105",
-        "prerequisites": [],
-        "level": "Sophomore"
-    },
-    {
-        "course_id": "CSE373",
-        "name": "Organized grid-enabled neural-net",
-        "credits": 4,
-        "instructor_id": "INS108",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE243",
-        "name": "Face-to-face responsive paradigm",
-        "credits": 4,
-        "instructor_id": "INS105",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE341",
-        "name": "Robust zero administration circuit",
-        "credits": 2,
-        "instructor_id": "INS107",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE343",
-        "name": "Open-architected optimizing budgetary management",
-        "credits": 2,
-        "instructor_id": "INS114",
-        "prerequisites": [],
+        "instructor_id": "INS221",
         "level": "Junior"
     },
     {
-        "course_id": "CSE458",
-        "name": "Integrated encompassing hardware",
-        "credits": 2,
-        "instructor_id": "INS111",
-        "prerequisites": [],
-        "level": "Freshman"
-    },
-    {
-        "course_id": "CSE384",
-        "name": "Optional transitional encryption",
+        "course_id": "CSE879",
+        "course_name": "AI Fundamentals",
         "credits": 4,
-        "instructor_id": "INS106",
-        "prerequisites": [],
+        "instructor_id": "INS482",
         "level": "Senior"
     },
     {
-        "course_id": "CSE358",
-        "name": "Total multimedia success",
-        "credits": 3,
-        "instructor_id": "INS114",
-        "prerequisites": [],
-        "level": "Junior"
-    },
-    {
-        "course_id": "CSE375",
-        "name": "Self-enabling fault-tolerant ability",
-        "credits": 3,
-        "instructor_id": "INS109",
-        "prerequisites": [],
-        "level": "Senior"
-    },
-    {
-        "course_id": "CSE285",
-        "name": "Secured value-added neural-net",
-        "credits": 3,
-        "instructor_id": "INS115",
-        "prerequisites": [],
+        "course_id": "CSE166",
+        "course_name": "Parallel Computing",
+        "credits": 4,
+        "instructor_id": "INS503",
         "level": "Freshman"
     },
     {
-        "course_id": "CSE234",
-        "name": "Sharable object-oriented middleware",
+        "course_id": "CSE885",
+        "course_name": "Parallel Computing",
         "credits": 2,
-        "instructor_id": "INS115",
-        "prerequisites": [],
+        "instructor_id": "INS275",
         "level": "Sophomore"
     },
     {
-        "course_id": "CSE444",
-        "name": "Devolved scalable parallelism",
-        "credits": 4,
-        "instructor_id": "INS115",
-        "prerequisites": [],
+        "course_id": "CSE707",
+        "course_name": "Embedded Systems",
+        "credits": 3,
+        "instructor_id": "INS950",
+        "level": "Junior"
+    },
+    {
+        "course_id": "CSE363",
+        "course_name": "Computer Architecture",
+        "credits": 3,
+        "instructor_id": "INS157",
         "level": "Senior"
+    },
+    {
+        "course_id": "CSE399",
+        "course_name": "Web Development",
+        "credits": 2,
+        "instructor_id": "INS720",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "CSE936",
+        "course_name": "Data Structures",
+        "credits": 2,
+        "instructor_id": "INS598",
+        "level": "Freshman"
     }
 ]
