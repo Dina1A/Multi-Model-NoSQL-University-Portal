@@ -1,69 +1,67 @@
+📘 University Portal — Updated Dataset Documentation
+(Clean Markdown Version — No Formatting Issues)
 
-
-# 📘 Multi-Model University Portal — Updated Dataset Documentation  
-*(after entity structure modifications)*
-
-هذا الملف يشرح **شكل البيانات الجديد** بعد التعديلات على الـ entities، وكيف تم توزيع البيانات على قواعد NoSQL المختلفة:
-
-- MongoDB (Students – Courses – Programs – Time-Series Activity Logs)
-- Redis (Sessions)
-- Neo4j (Graph Relationships)
+# 📘 University Portal — Updated Dataset Documentation
+هذا الملف يوضح شكل البيانات الجديدة بعد إعادة توليد الـ dataset باستخدام Faker،
+والتي تشمل Students, Courses, Programs, Instructors فقط.
 
 ---
 
-# 🟦 1. Students Dataset (MongoDB – Document)
+## 📁 1) Dataset Summary
 
-**المسار:** `students.json`  
-**العدد:** 200 طالب (أو حسب التوليد)
+| Dataset       | Count | Notes                              |
+|---------------|-------|------------------------------------|
+| Students      | 100   | 8% فقط لديهم Failed courses        |
+| Courses       | 40    | كل كورس له Instructor              |
+| Instructors   | 20    | المدرس يدرّس أكثر من مساق          |
+| Programs      | 5     | لكل برنامج 5 required courses      |
+| Activity Logs | —     | غير موجود                          |
+| Redis Sessions| —     | غير موجود                          |
+| Neo4j Graph   | —     | غير موجود                          |
 
-### ✔ الخصائص (Attributes)
-- `student_id`
-- `name`
-- `email`
-- `phone`
-- `program_id`
-- `year`
-- `status`
-- **enrollment (embedded array)**
+---
 
-### ✔ بنية الـ Enrollment بعد التعديل
+## 👨‍🎓 2) Students (MongoDB – Document)
+
+### Structure
 ```json
 {
-  "course_name": "Advanced Microprocessors",
-  "grade": 92,
-  "semester": "2023/2",
-  "status": "Completed"
+  "student_id": "ST1234",
+  "name": "John Doe",
+  "email": "john@ppu.edu",
+  "phone": "0599XXXXXX",
+  "program_id": "CSE",
+  "year": 3,
+  "status": "Active",
+  "enrollment": [
+    {
+      "course_id": "CSE320",
+      "course_name": "Algorithms",
+      "semester": "2024/1",
+      "status": "Completed",
+      "grade": 75
+    }
+  ]
 }
-ملاحظة
-استخدمنا course_name بدل course_id داخل enrollment، حسب التعديل الجديد.
-
-🟩 2. Courses Dataset (MongoDB – Document)
-المسار: courses.json
-العدد: 40 مساق
-
-✔ الخصائص الجديدة (Updated Attributes)
-json
-Copy code
+✔ يحتوي الطالب بين 3–6 مواد
+✔ فقط 8% من الطلاب لديهم مواد Failed
+---
+## 📚 3) Courses (MongoDB – Document)
+### Structure
+```json 
 {
-  "course_id": "CSE320",
-  "name": "Advanced Microprocessors",
+  "course_id": "CSE220",
+  "course_name": "Computer Architecture",
   "credits": 3,
   "instructor_id": "INS101",
-  "prerequisites": ["CSE220"],
   "level": "Junior"
 }
-ملاحظة
-المساق يحتوي على prerequisites
-
-و level (Freshman / Sophomore / Junior / Senior)
-
-🟥 3. Instructors Dataset (MongoDB – Document)
-المسار: instructors.json
-العدد: 15 دكتور
-
-✔ الخصائص
-json
-Copy code
+✔ لا يحتوي على prerequisites
+✔ كل كورس مرتبط بمدرّس واحد
+---
+## 👨‍🏫 4) Instructors (MongoDB – Document)
+### Structure
+```json   
 {
   "instructor_id": "INS101",
   "name": "Dr. Ahmad Yaseen",
@@ -72,128 +70,35 @@ Copy code
   "office": "C-415",
   "office_hours": "Mon 12-2"
 }
-🟨 4. Programs Dataset (MongoDB – Document)
-المسار: programs.json
-
-✔ الخصائص
-json
-Copy code
+✔ عدد المدرسين = 20
+✔ المدرّس قد يدرّس أكثر من مساق
+---
+##  🏛 5) Programs (MongoDB – Document)
+### Structure
+```json              
 {
   "program_id": "CSE",
-  "name": "Computer Systems Engineering",
+  "name": "CSE Program",
   "department": "Engineering",
   "degree": "Bachelor",
   "duration_years": 5,
-  "total_credits": 162
+  "total_credits": 162,
+  "required_courses": [
+    "CSE101",
+    "CSE230",
+    "CSE250",
+    "CSE320",
+    "CSE350"
+  ]
 }
-🟧 5. Activity Logs (MongoDB – Time-Series)
-المسار: activity_logs.json
-يستخدم course_name + student_id بدل course_id.
+✔ يوجد 5 برامج
+✔ كل برنامج له 5 كورسات Required
+---
+❌ Models Not Included in This Release
+Model	Status
+Activity Logs	غير موجود
+Redis Sessions	غير موجود
+Neo4j Graph	غير موجود
 
-✔ البنية الجديدة
-json
-Copy code
-{
-  "timestamp": "2025-02-14T12:45:00",
-  "meta": {
-    "student_id": "2023001",
-    "course_name": "Advanced Microprocessors",
-    "type": "login"
-  },
-  "details": {
-    "device": "Chrome",
-    "ip": "192.168.1.5"
-  }
-}
-🟪 6. Redis Sessions Dataset (Key‑Value)
-المسار: sessions_redis.json
+---
 
-✔ مثال
-json
-Copy code
-{
-  "key": "session:3fa85f64-5717-4562-b3fc-2c963f66afa6",
-  "value": {
-    "session_id": "...",
-    "user_id": "2023001",
-    "role": "student",
-    "created_at": "2025-02-15T10:34",
-    "expires_at": "2025-02-15T12:34"
-  }
-}
-🟦 7. Neo4j Graph (Nodes + Relationships)
-المسار: neo4j_data.json
-
-✔ Nodes
-Students
-
-Courses
-
-Instructors
-
-✔ Relationships
-ENROLLED_IN
-يربط:
-
-student_id
-
-course_name
-
-TEACHES
-يربط:
-
-instructor_id
-
-course_id
-
-✔ مثال
-json
-Copy code
-{
-  "type": "ENROLLED_IN",
-  "student_id": "2023001",
-  "course_name": "Advanced Microprocessors"
-}
-🔷 8. ERD (Structured Text Diagram)
-pgsql
-Copy code
-Student
- ├── student_id
- ├── name
- ├── program_id  → Program.program_id
- └── enrollment[]
-       ├── course_name  → Course.name
-       ├── grade
-       ├── semester
-       └── status
-
-Course
- ├── course_id
- ├── name
- ├── prerequisites[]
- └── instructor_id → Instructor.instructor_id
-
-Instructor
- ├── instructor_id
- ├── name
- └── teaches → Course.course_id
-
-Program
- └── program_id
-
-Activity Log (Time-Series)
- ├── timestamp
- ├── meta.student_id → Student.student_id
- └── meta.course_name → Course.name
-
-Redis Sessions
- └── user_id → Student.student_id
-🟣 9. Summary Table
-Dataset	DB	Structure	Notes
-Students	MongoDB	Embedded enrollment	Uses course_name
-Courses	MongoDB	Document	Includes prerequisites + level
-Instructors	MongoDB	Document	Includes office + office_hours
-Programs	MongoDB	Document	Updated fields
-Activity Logs	MongoDB Time-Series	timestamp + meta	Uses course_name
-Sessions	Redis	Key–Value	Session management
-Graph	Neo4j	Nodes + Relationships	ENROLLED_IN / TEACHES
