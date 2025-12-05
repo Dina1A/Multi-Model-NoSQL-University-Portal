@@ -1,0 +1,77 @@
+[
+    {
+        "program_id": "CSE",
+        "name": "CSE Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "COURSE015",
+            "COURSE002",
+            "COURSE011",
+            "COURSE022",
+            "COURSE028"
+        ]
+    },
+    {
+        "program_id": "CS",
+        "name": "CS Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "COURSE006",
+            "COURSE012",
+            "COURSE010",
+            "COURSE008",
+            "COURSE001"
+        ]
+    },
+    {
+        "program_id": "IT",
+        "name": "IT Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "COURSE013",
+            "COURSE015",
+            "COURSE005",
+            "COURSE036",
+            "COURSE040"
+        ]
+    },
+    {
+        "program_id": "DS",
+        "name": "DS Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "COURSE015",
+            "COURSE013",
+            "COURSE005",
+            "COURSE037",
+            "COURSE008"
+        ]
+    },
+    {
+        "program_id": "CE",
+        "name": "CE Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "COURSE024",
+            "COURSE003",
+            "COURSE013",
+            "COURSE032",
+            "COURSE010"
+        ]
+    }
+]

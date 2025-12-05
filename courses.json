@@ -1,0 +1,282 @@
+[
+    {
+        "course_id": "COURSE001",
+        "course_name": "Information Retrieval",
+        "credits": 3,
+        "instructor_id": "INS006",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE002",
+        "course_name": "Virtual Reality",
+        "credits": 4,
+        "instructor_id": "INS018",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE003",
+        "course_name": "Database Systems",
+        "credits": 4,
+        "instructor_id": "INS018",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE004",
+        "course_name": "Cloud Architecture",
+        "credits": 3,
+        "instructor_id": "INS016",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE005",
+        "course_name": "Computer Forensics",
+        "credits": 4,
+        "instructor_id": "INS013",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE006",
+        "course_name": "Embedded Systems",
+        "credits": 3,
+        "instructor_id": "INS004",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE007",
+        "course_name": "Operating Systems",
+        "credits": 4,
+        "instructor_id": "INS020",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE008",
+        "course_name": "Reinforcement Learning",
+        "credits": 4,
+        "instructor_id": "INS003",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE009",
+        "course_name": "Software Project Management",
+        "credits": 2,
+        "instructor_id": "INS013",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE010",
+        "course_name": "High Performance Computing",
+        "credits": 4,
+        "instructor_id": "INS020",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE011",
+        "course_name": "Information Security",
+        "credits": 3,
+        "instructor_id": "INS014",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE012",
+        "course_name": "Cloud Security",
+        "credits": 2,
+        "instructor_id": "INS017",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE013",
+        "course_name": "Ethical Hacking",
+        "credits": 3,
+        "instructor_id": "INS019",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE014",
+        "course_name": "Machine Learning",
+        "credits": 4,
+        "instructor_id": "INS009",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE015",
+        "course_name": "Cyber-Physical Systems",
+        "credits": 2,
+        "instructor_id": "INS010",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE016",
+        "course_name": "Cloud Computing",
+        "credits": 2,
+        "instructor_id": "INS014",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE017",
+        "course_name": "AI Fundamentals",
+        "credits": 2,
+        "instructor_id": "INS013",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE018",
+        "course_name": "Distributed Systems",
+        "credits": 4,
+        "instructor_id": "INS011",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE019",
+        "course_name": "Algorithms and Complexity",
+        "credits": 2,
+        "instructor_id": "INS017",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE020",
+        "course_name": "Digital Signal Processing",
+        "credits": 2,
+        "instructor_id": "INS010",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE021",
+        "course_name": "Deep Learning",
+        "credits": 3,
+        "instructor_id": "INS005",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE022",
+        "course_name": "Parallel Computing",
+        "credits": 3,
+        "instructor_id": "INS010",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE023",
+        "course_name": "Advanced Operating Systems",
+        "credits": 2,
+        "instructor_id": "INS020",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE024",
+        "course_name": "Operating Systems II",
+        "credits": 4,
+        "instructor_id": "INS010",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE025",
+        "course_name": "Penetration Testing",
+        "credits": 2,
+        "instructor_id": "INS018",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE026",
+        "course_name": "Statistical Modeling",
+        "credits": 3,
+        "instructor_id": "INS013",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE027",
+        "course_name": "Numerical Methods",
+        "credits": 4,
+        "instructor_id": "INS002",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE028",
+        "course_name": "Malware Analysis",
+        "credits": 3,
+        "instructor_id": "INS012",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE029",
+        "course_name": "Computer Graphics",
+        "credits": 2,
+        "instructor_id": "INS019",
+        "level": "Freshman"
+    },
+    {
+        "course_id": "COURSE030",
+        "course_name": "Advanced Networks",
+        "credits": 2,
+        "instructor_id": "INS020",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE031",
+        "course_name": "Compiler Design",
+        "credits": 2,
+        "instructor_id": "INS005",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE032",
+        "course_name": "Discrete Mathematics",
+        "credits": 4,
+        "instructor_id": "INS019",
+        "level": "Senior"
+    },
+    {
+        "course_id": "COURSE033",
+        "course_name": "Predictive Analytics",
+        "credits": 3,
+        "instructor_id": "INS020",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE034",
+        "course_name": "Computer Simulation",
+        "credits": 4,
+        "instructor_id": "INS008",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE035",
+        "course_name": "Mobile Computing",
+        "credits": 2,
+        "instructor_id": "INS001",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE036",
+        "course_name": "AI for Cybersecurity",
+        "credits": 3,
+        "instructor_id": "INS004",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE037",
+        "course_name": "Knowledge Representation",
+        "credits": 2,
+        "instructor_id": "INS020",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE038",
+        "course_name": "Expert Systems",
+        "credits": 4,
+        "instructor_id": "INS014",
+        "level": "Junior"
+    },
+    {
+        "course_id": "COURSE039",
+        "course_name": "IT Project Management",
+        "credits": 3,
+        "instructor_id": "INS003",
+        "level": "Sophomore"
+    },
+    {
+        "course_id": "COURSE040",
+        "course_name": "Computer Architecture",
+        "credits": 2,
+        "instructor_id": "INS004",
+        "level": "Senior"
+    }
+]

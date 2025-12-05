@@ -1,0 +1,3466 @@
+[
+    {
+        "student_id": "ST0001",
+        "name": "Jacob Roberts",
+        "email": "nzamora@hotmail.com",
+        "phone": "158.802.5618",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0002",
+        "name": "Michelle Gardner",
+        "email": "deniseyates@clark.biz",
+        "phone": "449.492.2165x9863",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0003",
+        "name": "Taylor Johnson",
+        "email": "robert42@hotmail.com",
+        "phone": "(595)530-0253x517",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0004",
+        "name": "Kristen Miller",
+        "email": "chavezmary@yahoo.com",
+        "phone": "001-076-341-0747",
+        "program_id": "DS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 64
+            }
+        ]
+    },
+    {
+        "student_id": "ST0005",
+        "name": "Darlene Simon",
+        "email": "petersonstacy@gonzalez.org",
+        "phone": "5486942205",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "Completed",
+                "grade": 92
+            }
+        ]
+    },
+    {
+        "student_id": "ST0006",
+        "name": "Christina Stewart",
+        "email": "harrisdarryl@hotmail.com",
+        "phone": "+1-957-431-1936x0710",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0007",
+        "name": "Austin Simpson",
+        "email": "franciscohunter@green-campbell.org",
+        "phone": "(474)117-6654x828",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0008",
+        "name": "Glenn Shelton",
+        "email": "richardromero@herrera.com",
+        "phone": "700.377.6614x086",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Failed",
+                "grade": 52
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Failed",
+                "grade": 55
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "Failed",
+                "grade": 47
+            }
+        ]
+    },
+    {
+        "student_id": "ST0009",
+        "name": "Michael Lawson",
+        "email": "xrhodes@gmail.com",
+        "phone": "+1-176-015-7102x9952",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0010",
+        "name": "Matthew Lamb",
+        "email": "lorraineallen@snyder.com",
+        "phone": "720-859-7582x576",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0011",
+        "name": "Mark Lowery",
+        "email": "janice36@ramsey.com",
+        "phone": "+1-230-962-2022x074",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0012",
+        "name": "Alicia Hunt",
+        "email": "treyes@gmail.com",
+        "phone": "794.252.3049",
+        "program_id": "DS",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Completed",
+                "grade": 72
+            }
+        ]
+    },
+    {
+        "student_id": "ST0013",
+        "name": "Deborah Johnson",
+        "email": "potterheather@johnson.com",
+        "phone": "001-865-763-4751x710",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 64
+            }
+        ]
+    },
+    {
+        "student_id": "ST0014",
+        "name": "Chelsea Johnson",
+        "email": "williammcclain@hotmail.com",
+        "phone": "001-040-231-4383x059",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0015",
+        "name": "Melissa Brown",
+        "email": "reedmichael@hodges.org",
+        "phone": "001-578-012-5079x053",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "Failed",
+                "grade": 47
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 98
+            }
+        ]
+    },
+    {
+        "student_id": "ST0016",
+        "name": "Gavin Gomez",
+        "email": "jonestodd@hudson.com",
+        "phone": "001-268-213-1747",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "Completed",
+                "grade": 92
+            }
+        ]
+    },
+    {
+        "student_id": "ST0017",
+        "name": "Kyle Anderson",
+        "email": "christopher56@yahoo.com",
+        "phone": "(545)571-2263",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 87
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Completed",
+                "grade": 75
+            }
+        ]
+    },
+    {
+        "student_id": "ST0018",
+        "name": "Meghan Reeves",
+        "email": "ssantos@sanchez.com",
+        "phone": "796-875-6062x48628",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0019",
+        "name": "Shannon Horton",
+        "email": "annaharrington@smith.org",
+        "phone": "473.836.9111x7611",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0020",
+        "name": "Ruben Parker",
+        "email": "thomasreyes@mccormick.com",
+        "phone": "+1-933-751-2673x1840",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "Failed",
+                "grade": 42
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0021",
+        "name": "Danielle Watkins",
+        "email": "joseph45@herman-dunn.com",
+        "phone": "469-151-5187",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0022",
+        "name": "Jared Walker",
+        "email": "michelleryan@gmail.com",
+        "phone": "540.773.9386",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "Completed",
+                "grade": 66
+            }
+        ]
+    },
+    {
+        "student_id": "ST0023",
+        "name": "Mary Parrish",
+        "email": "erinbates@yahoo.com",
+        "phone": "001-980-401-3381",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 65
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "Completed",
+                "grade": 61
+            }
+        ]
+    },
+    {
+        "student_id": "ST0024",
+        "name": "Samantha Shah",
+        "email": "leah47@castillo.org",
+        "phone": "+1-103-394-9236x89078",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0025",
+        "name": "Crystal Figueroa",
+        "email": "smitherika@davis.biz",
+        "phone": "468.666.3331x10114",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0026",
+        "name": "Amber Watson",
+        "email": "ayalalauren@yahoo.com",
+        "phone": "471-605-1011x9091",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 69
+            }
+        ]
+    },
+    {
+        "student_id": "ST0027",
+        "name": "Vincent Cardenas",
+        "email": "amywatson@little.info",
+        "phone": "2799365261",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 100
+            },
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 73
+            }
+        ]
+    },
+    {
+        "student_id": "ST0028",
+        "name": "John Lewis",
+        "email": "ocole@chapman.biz",
+        "phone": "+1-170-695-1232x95207",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 95
+            }
+        ]
+    },
+    {
+        "student_id": "ST0029",
+        "name": "Patricia Duncan",
+        "email": "yolanda49@yahoo.com",
+        "phone": "(542)788-7935",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0030",
+        "name": "Miranda Hardy",
+        "email": "chenandrew@hotmail.com",
+        "phone": "992-728-5829x9788",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "Completed",
+                "grade": 61
+            }
+        ]
+    },
+    {
+        "student_id": "ST0031",
+        "name": "Chelsea Baker",
+        "email": "jesushernandez@yahoo.com",
+        "phone": "+1-457-728-2629",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 100
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "Completed",
+                "grade": 68
+            }
+        ]
+    },
+    {
+        "student_id": "ST0032",
+        "name": "Chris Brown",
+        "email": "anita99@edwards.com",
+        "phone": "+1-437-222-1495x77117",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "Completed",
+                "grade": 62
+            }
+        ]
+    },
+    {
+        "student_id": "ST0033",
+        "name": "Andrew Miller",
+        "email": "lisastewart@yahoo.com",
+        "phone": "240-159-5039x5562",
+        "program_id": "DS",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Completed",
+                "grade": 70
+            }
+        ]
+    },
+    {
+        "student_id": "ST0034",
+        "name": "Terry Johnson",
+        "email": "james19@hanson-stuart.com",
+        "phone": "895.579.7192x398",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0035",
+        "name": "Annette Ramos",
+        "email": "vholmes@gmail.com",
+        "phone": "001-278-742-7371x72596",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0036",
+        "name": "Mikayla Wells",
+        "email": "taylorkathryn@yahoo.com",
+        "phone": "001-085-784-9731",
+        "program_id": "CS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0037",
+        "name": "Veronica Kirk",
+        "email": "ddavis@estrada.biz",
+        "phone": "056-908-8838",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "Completed",
+                "grade": 91
+            }
+        ]
+    },
+    {
+        "student_id": "ST0038",
+        "name": "Susan Jefferson",
+        "email": "andreamcfarland@mitchell-mueller.com",
+        "phone": "+1-738-069-4076",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "Completed",
+                "grade": 71
+            }
+        ]
+    },
+    {
+        "student_id": "ST0039",
+        "name": "Mary Mccoy",
+        "email": "merickson@watkins-hodge.com",
+        "phone": "(308)489-7389x897",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0040",
+        "name": "Robert Woods",
+        "email": "james78@patel.com",
+        "phone": "001-430-574-2078x8352",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 75
+            }
+        ]
+    },
+    {
+        "student_id": "ST0041",
+        "name": "Joshua Franklin",
+        "email": "sandersjanet@rios.info",
+        "phone": "001-584-429-2101x87155",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0042",
+        "name": "Luke Henderson",
+        "email": "robinmiller@yahoo.com",
+        "phone": "(296)126-0652",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "Completed",
+                "grade": 100
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Failed",
+                "grade": 49
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "Failed",
+                "grade": 53
+            }
+        ]
+    },
+    {
+        "student_id": "ST0043",
+        "name": "Michele Hansen",
+        "email": "zwatts@gmail.com",
+        "phone": "001-611-292-9193x3942",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 60
+            }
+        ]
+    },
+    {
+        "student_id": "ST0044",
+        "name": "Lori Barnett",
+        "email": "tmckinney@grant.com",
+        "phone": "+1-382-264-2470x4703",
+        "program_id": "CS",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0045",
+        "name": "Jennifer Watkins",
+        "email": "tatejennifer@burton-sandoval.com",
+        "phone": "605-662-7235x568",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Failed",
+                "grade": 55
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Failed",
+                "grade": 45
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0046",
+        "name": "Lori Dixon",
+        "email": "hwalker@hotmail.com",
+        "phone": "+1-542-793-3901x004",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 89
+            }
+        ]
+    },
+    {
+        "student_id": "ST0047",
+        "name": "William Sexton",
+        "email": "sethjacobson@martin.biz",
+        "phone": "(840)005-8786x31421",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "Completed",
+                "grade": 64
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0048",
+        "name": "Robert Cruz",
+        "email": "tony18@wagner-hall.info",
+        "phone": "+1-867-382-9849x9406",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0049",
+        "name": "Jennifer Roberts",
+        "email": "cobrien@rodriguez-weaver.org",
+        "phone": "(906)319-6153x16142",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "Completed",
+                "grade": 66
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "Completed",
+                "grade": 76
+            }
+        ]
+    },
+    {
+        "student_id": "ST0050",
+        "name": "Neil Acevedo",
+        "email": "iburns@hotmail.com",
+        "phone": "083.717.9898x381",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0051",
+        "name": "Matthew Morris",
+        "email": "espinozaanna@gmail.com",
+        "phone": "539-106-5721",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0052",
+        "name": "Kaitlin Castro",
+        "email": "paulalvarez@joseph.info",
+        "phone": "841.230.4983x551",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 70
+            }
+        ]
+    },
+    {
+        "student_id": "ST0053",
+        "name": "Robert Diaz",
+        "email": "joseph35@curtis.info",
+        "phone": "990.191.0005",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0054",
+        "name": "Tyler Reid",
+        "email": "barbarawilliams@hotmail.com",
+        "phone": "(156)608-2059",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0055",
+        "name": "Micheal Bailey",
+        "email": "turnerdonald@holloway.com",
+        "phone": "(229)656-2656x244",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0056",
+        "name": "Michelle Cole",
+        "email": "michael20@larsen.biz",
+        "phone": "001-401-678-6917x55090",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0057",
+        "name": "Mark Kim",
+        "email": "velasquezjordan@jones.net",
+        "phone": "(249)114-2120x2551",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0058",
+        "name": "Gregory Johnson",
+        "email": "davidortega@fernandez-rhodes.com",
+        "phone": "+1-584-636-2490x11320",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 60
+            }
+        ]
+    },
+    {
+        "student_id": "ST0059",
+        "name": "Jeffrey Mckee",
+        "email": "fieldsjonathan@hotmail.com",
+        "phone": "8334039445",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0060",
+        "name": "Andre Hammond",
+        "email": "paul46@johnson.net",
+        "phone": "154.514.1273",
+        "program_id": "IT",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Completed",
+                "grade": 69
+            }
+        ]
+    },
+    {
+        "student_id": "ST0061",
+        "name": "Christina Brooks",
+        "email": "ymartinez@esparza.com",
+        "phone": "+1-349-179-7150",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0062",
+        "name": "Christopher Mccormick",
+        "email": "briangarrett@yahoo.com",
+        "phone": "698.949.2645",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0063",
+        "name": "Joseph Reed",
+        "email": "osanchez@hotmail.com",
+        "phone": "233.590.5484x31267",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0064",
+        "name": "Marco Franco",
+        "email": "lisasloan@gmail.com",
+        "phone": "(678)587-5529x003",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0065",
+        "name": "Jill Gonzales",
+        "email": "lopezjennifer@johnson.com",
+        "phone": "616.165.6178x0433",
+        "program_id": "CSE",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0066",
+        "name": "David Garrett",
+        "email": "edward10@gmail.com",
+        "phone": "(357)092-1011x846",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Completed",
+                "grade": 76
+            }
+        ]
+    },
+    {
+        "student_id": "ST0067",
+        "name": "Jill White",
+        "email": "skinnerrobert@yahoo.com",
+        "phone": "+1-858-040-0610x0122",
+        "program_id": "DS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0068",
+        "name": "Kirk Wallace",
+        "email": "curtisedwards@yahoo.com",
+        "phone": "+1-603-822-9927",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0069",
+        "name": "Michael Hampton",
+        "email": "burnshelen@hancock.info",
+        "phone": "+1-981-369-8134x390",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 94
+            }
+        ]
+    },
+    {
+        "student_id": "ST0070",
+        "name": "Carlos Lloyd",
+        "email": "ryanchavez@matthews-gill.com",
+        "phone": "001-563-379-8087x9128",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "Completed",
+                "grade": 70
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "Completed",
+                "grade": 67
+            }
+        ]
+    },
+    {
+        "student_id": "ST0071",
+        "name": "Robert Allison",
+        "email": "martinezlaurie@yahoo.com",
+        "phone": "137-029-6841",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 75
+            }
+        ]
+    },
+    {
+        "student_id": "ST0072",
+        "name": "Curtis Monroe",
+        "email": "heatherwalters@ford.com",
+        "phone": "(681)065-9686x7614",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Failed",
+                "grade": 50
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "Failed",
+                "grade": 49
+            }
+        ]
+    },
+    {
+        "student_id": "ST0073",
+        "name": "Sharon Hudson",
+        "email": "kimcamacho@yahoo.com",
+        "phone": "071-391-3542x431",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0074",
+        "name": "James Young",
+        "email": "rjoyce@hotmail.com",
+        "phone": "+1-478-090-7678x966",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE004",
+                "course_name": "Cloud Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0075",
+        "name": "Barbara Boyle",
+        "email": "zbrewer@boyd.com",
+        "phone": "654.260.4145",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 65
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0076",
+        "name": "Elizabeth Decker",
+        "email": "oconnorjustin@gmail.com",
+        "phone": "001-142-722-8171x669",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0077",
+        "name": "Ryan Gutierrez",
+        "email": "grimesadam@yahoo.com",
+        "phone": "007.495.8375",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0078",
+        "name": "Amy Nolan",
+        "email": "scott65@murphy.com",
+        "phone": "+1-234-815-1789x4707",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 93
+            }
+        ]
+    },
+    {
+        "student_id": "ST0079",
+        "name": "Cheryl Cunningham",
+        "email": "juliefreeman@yahoo.com",
+        "phone": "(444)712-0959",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "Completed",
+                "grade": 94
+            }
+        ]
+    },
+    {
+        "student_id": "ST0080",
+        "name": "William Forbes",
+        "email": "alexander03@yahoo.com",
+        "phone": "(485)058-4823x70928",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "COURSE012",
+                "course_name": "Cloud Security",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 86
+            }
+        ]
+    },
+    {
+        "student_id": "ST0081",
+        "name": "Katie Shaw",
+        "email": "scruz@sanchez-martinez.biz",
+        "phone": "+1-023-897-1735x11826",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "Completed",
+                "grade": 79
+            }
+        ]
+    },
+    {
+        "student_id": "ST0082",
+        "name": "Eric Tate",
+        "email": "obrienrichard@johnson.com",
+        "phone": "682-954-0150",
+        "program_id": "IT",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0083",
+        "name": "Angela West",
+        "email": "kenneth22@gmail.com",
+        "phone": "(964)840-1107",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0084",
+        "name": "Linda Garrett",
+        "email": "adam27@hotmail.com",
+        "phone": "001-990-014-7133",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE025",
+                "course_name": "Penetration Testing",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Failed",
+                "grade": 41
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 77
+            }
+        ]
+    },
+    {
+        "student_id": "ST0085",
+        "name": "John Thomas",
+        "email": "csellers@hotmail.com",
+        "phone": "4861405764",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE010",
+                "course_name": "High Performance Computing",
+                "status": "Completed",
+                "grade": 63
+            }
+        ]
+    },
+    {
+        "student_id": "ST0086",
+        "name": "Tyler Molina",
+        "email": "tammy55@hotmail.com",
+        "phone": "461.850.3816x271",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 92
+            }
+        ]
+    },
+    {
+        "student_id": "ST0087",
+        "name": "Sharon Bond",
+        "email": "ericfisher@hotmail.com",
+        "phone": "2229755734",
+        "program_id": "CSE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0088",
+        "name": "Abigail Johnson",
+        "email": "markoconnor@gmail.com",
+        "phone": "(180)288-4728",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 76
+            }
+        ]
+    },
+    {
+        "student_id": "ST0089",
+        "name": "Samantha Garcia",
+        "email": "marybutler@huffman-jones.com",
+        "phone": "(404)573-3154x375",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0090",
+        "name": "Stacey Smith",
+        "email": "amyrobertson@moore.info",
+        "phone": "001-772-156-8429x07818",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0091",
+        "name": "Rita Alvarado",
+        "email": "benjamin33@romero-lambert.com",
+        "phone": "(650)610-0361x8628",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE030",
+                "course_name": "Advanced Networks",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE022",
+                "course_name": "Parallel Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE035",
+                "course_name": "Mobile Computing",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0092",
+        "name": "Christopher Vaughn",
+        "email": "stephenwu@kennedy-rodriguez.com",
+        "phone": "(658)236-3460",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE034",
+                "course_name": "Computer Simulation",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "Completed",
+                "grade": 96
+            }
+        ]
+    },
+    {
+        "student_id": "ST0093",
+        "name": "Taylor Duran",
+        "email": "william54@wright-ross.com",
+        "phone": "917-139-0676x2477",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE024",
+                "course_name": "Operating Systems II",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "Completed",
+                "grade": 65
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE023",
+                "course_name": "Advanced Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "Completed",
+                "grade": 98
+            }
+        ]
+    },
+    {
+        "student_id": "ST0094",
+        "name": "Timothy Stanley",
+        "email": "john83@hotmail.com",
+        "phone": "(751)676-1920x8623",
+        "program_id": "IT",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE011",
+                "course_name": "Information Security",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "COURSE009",
+                "course_name": "Software Project Management",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE029",
+                "course_name": "Computer Graphics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE033",
+                "course_name": "Predictive Analytics",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE013",
+                "course_name": "Ethical Hacking",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "COURSE038",
+                "course_name": "Expert Systems",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0095",
+        "name": "Charles Torres",
+        "email": "dennisnunez@obrien-dawson.com",
+        "phone": "158-670-5736x8421",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "COURSE026",
+                "course_name": "Statistical Modeling",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE019",
+                "course_name": "Algorithms and Complexity",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE001",
+                "course_name": "Information Retrieval",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "COURSE031",
+                "course_name": "Compiler Design",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0096",
+        "name": "Bailey Perry",
+        "email": "cynthiadorsey@yahoo.com",
+        "phone": "+1-314-487-1033",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "COURSE037",
+                "course_name": "Knowledge Representation",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "COURSE028",
+                "course_name": "Malware Analysis",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0097",
+        "name": "Janet Sanchez",
+        "email": "bill20@gmail.com",
+        "phone": "989-175-1020",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE016",
+                "course_name": "Cloud Computing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE018",
+                "course_name": "Distributed Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE008",
+                "course_name": "Reinforcement Learning",
+                "status": "Completed",
+                "grade": 99
+            }
+        ]
+    },
+    {
+        "student_id": "ST0098",
+        "name": "Stephen West",
+        "email": "chavezmichelle@thomas.com",
+        "phone": "+1-838-760-7692x66891",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE015",
+                "course_name": "Cyber-Physical Systems",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "COURSE039",
+                "course_name": "IT Project Management",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE006",
+                "course_name": "Embedded Systems",
+                "status": "Completed",
+                "grade": 67
+            }
+        ]
+    },
+    {
+        "student_id": "ST0099",
+        "name": "Charlotte Phillips",
+        "email": "patrick09@hudson-sanchez.com",
+        "phone": "788.174.2284",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE007",
+                "course_name": "Operating Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE021",
+                "course_name": "Deep Learning",
+                "status": "Completed",
+                "grade": 66
+            },
+            {
+                "course_id": "COURSE017",
+                "course_name": "AI Fundamentals",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE040",
+                "course_name": "Computer Architecture",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "COURSE036",
+                "course_name": "AI for Cybersecurity",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "COURSE002",
+                "course_name": "Virtual Reality",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0100",
+        "name": "Heidi Diaz",
+        "email": "saunderschelsea@hotmail.com",
+        "phone": "(499)410-0785x7839",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "COURSE020",
+                "course_name": "Digital Signal Processing",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE032",
+                "course_name": "Discrete Mathematics",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "COURSE027",
+                "course_name": "Numerical Methods",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "COURSE014",
+                "course_name": "Machine Learning",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE003",
+                "course_name": "Database Systems",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "COURSE005",
+                "course_name": "Computer Forensics",
+                "status": "In Progress"
+            }
+        ]
+    }
+]
