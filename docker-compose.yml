@@ -1,5 +1,3 @@
-version: '3.8'
-
 services:
   mongodb:
     image: mongo:6
@@ -26,9 +24,22 @@ services:
       - "7474:7474"
       - "7687:7687"
     environment:
-      NEO4J_AUTH: "neo4j/test123"
+      NEO4J_AUTH: "neo4j/test12345678"
+      NEO4J_server_memory_heap_initial__size: "512M"
+      NEO4J_server_memory_heap_max__size: "1G"
+      NEO4J_server_memory_pagecache_size: "1G"
     volumes:
       - neo4j_data:/data
+    networks:
+      - nosql-net
+
+  cassandra:
+    image: cassandra:4.1
+    container_name: cassandra
+    ports:
+      - "9042:9042"
+    volumes:
+      - cassandra_data:/var/lib/cassandra
     networks:
       - nosql-net
 
@@ -38,3 +49,4 @@ networks:
 volumes:
   mongo_data:
   neo4j_data:
+  cassandra_data:
