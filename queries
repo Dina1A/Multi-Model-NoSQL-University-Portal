@@ -1,0 +1,18 @@
+
+//Queries
+
+//Get recent activities of a student in a course
+SELECT *
+FROM student_activity
+WHERE student_id = 'STU001'
+AND course_id = 'COURSE001'
+LIMIT 5;
+
+//Get activities in a specific date
+SELECT *
+FROM student_activity
+WHERE student_id = 'STU001'
+AND course_id = 'COURSE001'
+AND activity_date = '2025-05-01'
+ALLOW FILTERING;
+
