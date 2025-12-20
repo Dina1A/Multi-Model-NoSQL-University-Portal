@@ -1,0 +1,85 @@
+version: "3.9"
+
+services:
+  mongodb:
+    image: mongo:6
+    container_name: mongodb
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    networks:
+      - nosql-net
+
+  redis:
+    image: redis:7
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - nosql-net
+
+  neo4j:
+    image: neo4j:5
+    container_name: neo4j
+    ports:
+      - "7474:7474"
+      - "7687:7687"
+    environment:
+      NEO4J_AUTH: "neo4j/test12345678"
+      NEO4J_dbms_memory_heap_initial__size: "512M"
+      NEO4J_dbms_memory_heap_max__size: "1G"
+      NEO4J_dbms_memory_pagecache_size: "1G"
+    volumes:
+      - neo4j_data:/data
+    networks:
+      - nosql-net
+
+  cassandra1:
+    image: cassandra:4.1
+    container_name: cassandra1
+    environment:
+      - CASSANDRA_CLUSTER_NAME=UniversityCluster
+      - CASSANDRA_SEEDS=cassandra1
+    ports:
+      - "9042:9042"
+    volumes:
+      - cassandra1_data:/var/lib/cassandra
+    networks:
+      - nosql-net
+
+  cassandra2:
+    image: cassandra:4.1
+    container_name: cassandra2
+    environment:
+      - CASSANDRA_CLUSTER_NAME=UniversityCluster
+      - CASSANDRA_SEEDS=cassandra1
+    depends_on:
+      - cassandra1
+    volumes:
+      - cassandra2_data:/var/lib/cassandra
+    networks:
+      - nosql-net
+
+  cassandra3:
+    image: cassandra:4.1
+    container_name: cassandra3
+    environment:
+      - CASSANDRA_CLUSTER_NAME=UniversityCluster
+      - CASSANDRA_SEEDS=cassandra1
+    depends_on:
+      - cassandra1
+    volumes:
+      - cassandra3_data:/var/lib/cassandra
+    networks:
+      - nosql-net
+
+volumes:
+  mongo_data:
+  neo4j_data:
+  cassandra1_data:
+  cassandra2_data:
+  cassandra3_data:
+
+networks:
+  nosql-net:
