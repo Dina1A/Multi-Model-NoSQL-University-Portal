@@ -1,18 +1,32 @@
-
-//Queries
-
-//Get recent activities of a student in a course
+-- 1. All activities of a student in a specific course
 SELECT *
 FROM student_activity
 WHERE student_id = 'STU001'
-AND course_id = 'COURSE001'
-LIMIT 5;
+  AND course_id = 'COURSE001';
 
-//Get activities in a specific date
+-- 2. All activities of a student in a specific course on a specific date
 SELECT *
 FROM student_activity
 WHERE student_id = 'STU001'
-AND course_id = 'COURSE001'
-AND activity_date = '2025-05-01'
+  AND course_id = 'COURSE001'
+  AND activity_date = '2025-05-01';
+
+-- 3. All activities of a student across all courses
+SELECT *
+FROM student_activity_by_student
+WHERE student_id = 'STU001';
+
+-- 4. Activities of a student in a specific course within a date range
+SELECT *
+FROM student_activity
+WHERE student_id = 'STU001'
+  AND course_id = 'COURSE001'
+  AND activity_date >= '2025-05-01'
+  AND activity_date <= '2025-05-02';
+
+-- 5. All quiz submissions of a student across all courses (requires ALLOW FILTERING)
+SELECT *
+FROM student_activity_by_student
+WHERE student_id = 'STU001'
+  AND activity_type = 'quiz_submission'
 ALLOW FILTERING;
-
