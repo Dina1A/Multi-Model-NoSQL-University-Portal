@@ -1,0 +1,4142 @@
+[
+    {
+        "student_id": "ST0001",
+        "name": "Dawn Cox",
+        "email": "cranekristina@example.com",
+        "phone": "602.988.8440",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 87
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 70
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 69
+            }
+        ]
+    },
+    {
+        "student_id": "ST0002",
+        "name": "Kelly Monroe",
+        "email": "scottsparks@example.org",
+        "phone": "868-857-2695x263",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 70
+            }
+        ]
+    },
+    {
+        "student_id": "ST0003",
+        "name": "Laurie Spencer",
+        "email": "veronicakirk@example.org",
+        "phone": "316.438.2018",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0004",
+        "name": "Scott Warren",
+        "email": "daniel42@example.org",
+        "phone": "481-797-8464x6648",
+        "program_id": "DS",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0005",
+        "name": "James Gaines",
+        "email": "cruzsteven@example.org",
+        "phone": "+1-654-735-0952",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0006",
+        "name": "Stephanie Zavala",
+        "email": "ericksonjessica@example.net",
+        "phone": "235.837.0794",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 85
+            }
+        ]
+    },
+    {
+        "student_id": "ST0007",
+        "name": "Lauren Johnson",
+        "email": "jacquelinemartin@example.com",
+        "phone": "001-883-724-4653x148",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 86
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 69
+            }
+        ]
+    },
+    {
+        "student_id": "ST0008",
+        "name": "James Lewis",
+        "email": "hmarshall@example.com",
+        "phone": "671.583.9085x924",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 64
+            }
+        ]
+    },
+    {
+        "student_id": "ST0009",
+        "name": "Amber Lawson",
+        "email": "teresa03@example.org",
+        "phone": "001-375-415-8723x43386",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0010",
+        "name": "Brittany Hartman",
+        "email": "kennedykaren@example.org",
+        "phone": "7738921504",
+        "program_id": "DS",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 64
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0011",
+        "name": "Michael Schaefer",
+        "email": "melindalee@example.net",
+        "phone": "(225)241-3422x8972",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE415",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 71
+            }
+        ]
+    },
+    {
+        "student_id": "ST0012",
+        "name": "Timothy Trujillo",
+        "email": "cmartin@example.net",
+        "phone": "3348334089",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 64
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0013",
+        "name": "Daniel Johnson",
+        "email": "uromero@example.com",
+        "phone": "001-956-442-9224x039",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 78
+            }
+        ]
+    },
+    {
+        "student_id": "ST0014",
+        "name": "Steven Davis",
+        "email": "cheyenneberger@example.net",
+        "phone": "823.232.5548x05873",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 91
+            }
+        ]
+    },
+    {
+        "student_id": "ST0015",
+        "name": "John Webster",
+        "email": "xmartin@example.org",
+        "phone": "(310)346-1393",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0016",
+        "name": "Luke Dyer",
+        "email": "lbrown@example.net",
+        "phone": "782-600-4527",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0017",
+        "name": "Dana Wright",
+        "email": "andersonphillip@example.com",
+        "phone": "(500)539-7967",
+        "program_id": "CSE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 92
+            }
+        ]
+    },
+    {
+        "student_id": "ST0018",
+        "name": "Calvin Gonzalez",
+        "email": "rgreen@example.org",
+        "phone": "2936836202",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0019",
+        "name": "Benjamin Dunn",
+        "email": "elizabethwright@example.org",
+        "phone": "756.270.9580x132",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0020",
+        "name": "Tonya Haynes",
+        "email": "moorekenneth@example.net",
+        "phone": "644-295-4472x807",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 99
+            }
+        ]
+    },
+    {
+        "student_id": "ST0021",
+        "name": "Alexander Frazier",
+        "email": "austin65@example.net",
+        "phone": "001-883-819-2452x484",
+        "program_id": "CS",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 100
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 81
+            }
+        ]
+    },
+    {
+        "student_id": "ST0022",
+        "name": "Karen Juarez",
+        "email": "russellhester@example.com",
+        "phone": "385.967.4107",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Failed",
+                "grade": 43
+            }
+        ]
+    },
+    {
+        "student_id": "ST0023",
+        "name": "Amy Peters",
+        "email": "nelsonnatasha@example.com",
+        "phone": "317-911-0375x84317",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 93
+            }
+        ]
+    },
+    {
+        "student_id": "ST0024",
+        "name": "Joshua Martinez",
+        "email": "deborahortega@example.com",
+        "phone": "998.516.1573x9071",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0025",
+        "name": "Billy Frost",
+        "email": "calhounrebecca@example.org",
+        "phone": "001-835-386-4104x672",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0026",
+        "name": "Lori Lopez",
+        "email": "kimberly23@example.org",
+        "phone": "773-725-9787x089",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 74
+            }
+        ]
+    },
+    {
+        "student_id": "ST0027",
+        "name": "Michael Wallace",
+        "email": "frenchlaura@example.net",
+        "phone": "001-638-705-9376x4703",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0028",
+        "name": "Julie Elliott",
+        "email": "ehughes@example.net",
+        "phone": "539.351.2992x118",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0029",
+        "name": "Melissa Johnson",
+        "email": "stevecalhoun@example.org",
+        "phone": "237.919.3621",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0030",
+        "name": "Nicholas Shaffer",
+        "email": "zwhite@example.net",
+        "phone": "+1-439-463-6396x791",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 92
+            }
+        ]
+    },
+    {
+        "student_id": "ST0031",
+        "name": "Amanda Gardner",
+        "email": "jenniferreid@example.org",
+        "phone": "(285)615-7644",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0032",
+        "name": "Stacey Steele",
+        "email": "rkelly@example.net",
+        "phone": "+1-929-800-5223x2219",
+        "program_id": "DS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 86
+            }
+        ]
+    },
+    {
+        "student_id": "ST0033",
+        "name": "Joshua Rivers",
+        "email": "michaelewing@example.com",
+        "phone": "(790)530-3511",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 70
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 95
+            }
+        ]
+    },
+    {
+        "student_id": "ST0034",
+        "name": "Joseph Flynn",
+        "email": "millergregory@example.org",
+        "phone": "(333)301-6021x9982",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 84
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/1",
+                "status": "Failed",
+                "grade": 53
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 63
+            }
+        ]
+    },
+    {
+        "student_id": "ST0035",
+        "name": "Wanda Lewis",
+        "email": "alexander71@example.com",
+        "phone": "(453)700-5145x04616",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 68
+            }
+        ]
+    },
+    {
+        "student_id": "ST0036",
+        "name": "Kathy Willis",
+        "email": "robert07@example.com",
+        "phone": "(863)920-5859x80376",
+        "program_id": "CS",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Failed",
+                "grade": 40
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0037",
+        "name": "Sean Mathis",
+        "email": "jonesdominic@example.org",
+        "phone": "6054713138",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0038",
+        "name": "Jason Brown",
+        "email": "youngkathleen@example.org",
+        "phone": "001-550-247-3521x77447",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0039",
+        "name": "Kevin Thompson",
+        "email": "smonroe@example.net",
+        "phone": "955-880-4196x28146",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 96
+            }
+        ]
+    },
+    {
+        "student_id": "ST0040",
+        "name": "Susan Giles",
+        "email": "zavalajoshua@example.com",
+        "phone": "721.842.4599",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 90
+            }
+        ]
+    },
+    {
+        "student_id": "ST0041",
+        "name": "Greg Ali",
+        "email": "gibsonmelissa@example.org",
+        "phone": "001-672-424-3321",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 65
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0042",
+        "name": "Tiffany Richmond",
+        "email": "michael26@example.org",
+        "phone": "922.747.8591x458",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Failed",
+                "grade": 47
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0043",
+        "name": "Janet Fisher",
+        "email": "varnold@example.net",
+        "phone": "+1-462-470-2394",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0044",
+        "name": "Scott Miller",
+        "email": "susan33@example.com",
+        "phone": "(816)933-4788x4522",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0045",
+        "name": "Kevin Webb",
+        "email": "johnleon@example.net",
+        "phone": "8393575392",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0046",
+        "name": "Pamela Lowe",
+        "email": "thomaslaurie@example.com",
+        "phone": "+1-302-920-9853x58229",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Failed",
+                "grade": 52
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "Failed",
+                "grade": 53
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Failed",
+                "grade": 54
+            },
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Failed",
+                "grade": 43
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 63
+            }
+        ]
+    },
+    {
+        "student_id": "ST0047",
+        "name": "Ashley Bryan",
+        "email": "brittanygiles@example.com",
+        "phone": "+1-609-337-7273x32901",
+        "program_id": "IT",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 100
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0048",
+        "name": "Alison Hernandez",
+        "email": "theodore73@example.com",
+        "phone": "001-509-313-9106x10414",
+        "program_id": "IT",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0049",
+        "name": "Vincent Williams",
+        "email": "zpeck@example.net",
+        "phone": "+1-337-246-5543",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 87
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0050",
+        "name": "Diane Brooks",
+        "email": "laramichael@example.com",
+        "phone": "423.590.1104x5843",
+        "program_id": "CSE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 66
+            },
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 63
+            }
+        ]
+    },
+    {
+        "student_id": "ST0051",
+        "name": "Heidi Chaney",
+        "email": "timothyperry@example.org",
+        "phone": "6895676940",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 66
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0052",
+        "name": "Linda Erickson",
+        "email": "caseyramirez@example.net",
+        "phone": "+1-319-488-9099x325",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0053",
+        "name": "Matthew White",
+        "email": "michelle16@example.com",
+        "phone": "868.248.3000x460",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 98
+            }
+        ]
+    },
+    {
+        "student_id": "ST0054",
+        "name": "Michael Smith",
+        "email": "milleranthony@example.com",
+        "phone": "+1-604-451-8564x68781",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0055",
+        "name": "Benjamin Spencer",
+        "email": "nicholsbeth@example.com",
+        "phone": "+1-727-313-2452x293",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 94
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0056",
+        "name": "Angela Rivera",
+        "email": "foxanthony@example.org",
+        "phone": "(956)526-6662",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 81
+            }
+        ]
+    },
+    {
+        "student_id": "ST0057",
+        "name": "Lauren Gordon",
+        "email": "montoyajames@example.net",
+        "phone": "6258473728",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0058",
+        "name": "Lisa Mcclure",
+        "email": "mossmark@example.com",
+        "phone": "+1-935-664-8234",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0059",
+        "name": "Alec Adams",
+        "email": "samantharussell@example.net",
+        "phone": "9084682285",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE415",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 62
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Failed",
+                "grade": 53
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "Failed",
+                "grade": 52
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Failed",
+                "grade": 42
+            }
+        ]
+    },
+    {
+        "student_id": "ST0060",
+        "name": "Holly Santiago",
+        "email": "christianwilliams@example.com",
+        "phone": "001-229-314-9173x14363",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0061",
+        "name": "Amanda Palmer",
+        "email": "hendersonhayden@example.org",
+        "phone": "720-294-9559",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 100
+            }
+        ]
+    },
+    {
+        "student_id": "ST0062",
+        "name": "Virginia Travis",
+        "email": "wardadam@example.com",
+        "phone": "2162231667",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE449",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 66
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 85
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 95
+            }
+        ]
+    },
+    {
+        "student_id": "ST0063",
+        "name": "Laura Knight",
+        "email": "kyle83@example.net",
+        "phone": "280.867.3992",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0064",
+        "name": "Barbara Stephens",
+        "email": "mvalenzuela@example.net",
+        "phone": "873-810-3820x798",
+        "program_id": "CE",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 82
+            }
+        ]
+    },
+    {
+        "student_id": "ST0065",
+        "name": "Amanda Munoz",
+        "email": "thomasgonzalez@example.net",
+        "phone": "+1-884-249-4967x654",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 60
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 96
+            }
+        ]
+    },
+    {
+        "student_id": "ST0066",
+        "name": "Matthew Harrington",
+        "email": "mary18@example.com",
+        "phone": "963.916.3678x13473",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE415",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 72
+            }
+        ]
+    },
+    {
+        "student_id": "ST0067",
+        "name": "Melanie Schaefer",
+        "email": "matthew17@example.org",
+        "phone": "9496378575",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE340",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 70
+            }
+        ]
+    },
+    {
+        "student_id": "ST0068",
+        "name": "Danielle Summers",
+        "email": "nking@example.net",
+        "phone": "790.603.9681x40736",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "Failed",
+                "grade": 45
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Failed",
+                "grade": 49
+            }
+        ]
+    },
+    {
+        "student_id": "ST0069",
+        "name": "Justin Sandoval",
+        "email": "berrywendy@example.org",
+        "phone": "+1-568-260-4309x29537",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 99
+            }
+        ]
+    },
+    {
+        "student_id": "ST0070",
+        "name": "Reginald Banks",
+        "email": "sdunn@example.net",
+        "phone": "+1-519-910-8904x58594",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 87
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 66
+            }
+        ]
+    },
+    {
+        "student_id": "ST0071",
+        "name": "Christopher Alexander",
+        "email": "jamesbird@example.com",
+        "phone": "(738)456-3056x072",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 85
+            }
+        ]
+    },
+    {
+        "student_id": "ST0072",
+        "name": "Katrina Wilson",
+        "email": "ugutierrez@example.com",
+        "phone": "+1-429-882-2011x152",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 89
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 64
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0073",
+        "name": "Kelly Martinez",
+        "email": "xkelly@example.com",
+        "phone": "(418)353-8959",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 99
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 94
+            }
+        ]
+    },
+    {
+        "student_id": "ST0074",
+        "name": "Scott Ortiz",
+        "email": "david20@example.net",
+        "phone": "001-940-644-7377x58795",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0075",
+        "name": "Joann Ramos",
+        "email": "ewilliams@example.net",
+        "phone": "810.221.1303x9435",
+        "program_id": "CE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE117",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0076",
+        "name": "Hannah Nguyen",
+        "email": "jameswilliams@example.org",
+        "phone": "714-398-7374",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 64
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE160",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 84
+            }
+        ]
+    },
+    {
+        "student_id": "ST0077",
+        "name": "Stephanie Byrd",
+        "email": "shaun71@example.com",
+        "phone": "001-380-384-4999x7201",
+        "program_id": "IT",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 71
+            },
+            {
+                "course_id": "CSE435",
+                "course_name": "Computer Architecture",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 61
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0078",
+        "name": "Mr. Anthony Matthews MD",
+        "email": "qjenkins@example.net",
+        "phone": "001-901-328-0068x6620",
+        "program_id": "CE",
+        "year": 5,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 82
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 91
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 88
+            }
+        ]
+    },
+    {
+        "student_id": "ST0079",
+        "name": "Ashley White",
+        "email": "lovethomas@example.net",
+        "phone": "362.298.6559x99246",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 80
+            }
+        ]
+    },
+    {
+        "student_id": "ST0080",
+        "name": "Tracey Perry",
+        "email": "ysawyer@example.org",
+        "phone": "8993835061",
+        "program_id": "CS",
+        "year": 3,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 81
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 88
+            }
+        ]
+    },
+    {
+        "student_id": "ST0081",
+        "name": "Ashley Sanders",
+        "email": "jesusmccarthy@example.org",
+        "phone": "420-225-4315",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 77
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 63
+            },
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 79
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 72
+            }
+        ]
+    },
+    {
+        "student_id": "ST0082",
+        "name": "Carla Mayo",
+        "email": "caitlin22@example.com",
+        "phone": "+1-316-955-8506",
+        "program_id": "DS",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE401",
+                "course_name": "Database Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 98
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 69
+            }
+        ]
+    },
+    {
+        "student_id": "ST0083",
+        "name": "Holly Simon",
+        "email": "elizabeth06@example.org",
+        "phone": "+1-226-983-2022x99731",
+        "program_id": "DS",
+        "year": 4,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 65
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0084",
+        "name": "Donald Yates",
+        "email": "millerdeanna@example.net",
+        "phone": "001-632-208-1720x71449",
+        "program_id": "CE",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE415",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE300",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 95
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 86
+            }
+        ]
+    },
+    {
+        "student_id": "ST0085",
+        "name": "Timothy Fisher",
+        "email": "patricia37@example.org",
+        "phone": "+1-347-371-2560x778",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 71
+            }
+        ]
+    },
+    {
+        "student_id": "ST0086",
+        "name": "Matthew Burns",
+        "email": "kenneth47@example.net",
+        "phone": "+1-248-272-6572",
+        "program_id": "DS",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE102",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE304",
+                "course_name": "Data Structures",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 68
+            }
+        ]
+    },
+    {
+        "student_id": "ST0087",
+        "name": "Pam Perez",
+        "email": "gmorris@example.com",
+        "phone": "652.822.5380x115",
+        "program_id": "CS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE213",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 88
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0088",
+        "name": "Nicholas Stephens",
+        "email": "bcox@example.com",
+        "phone": "001-253-610-6484",
+        "program_id": "CSE",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 71
+            }
+        ]
+    },
+    {
+        "student_id": "ST0089",
+        "name": "Melinda Mason",
+        "email": "veronicamoore@example.com",
+        "phone": "(529)550-3492x1630",
+        "program_id": "CSE",
+        "year": 5,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE276",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 72
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 78
+            },
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 62
+            }
+        ]
+    },
+    {
+        "student_id": "ST0090",
+        "name": "Sydney Johnson MD",
+        "email": "patelbrandon@example.org",
+        "phone": "+1-542-717-3647x77071",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE335",
+                "course_name": "Embedded Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE378",
+                "course_name": "Embedded Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 96
+            },
+            {
+                "course_id": "CSE288",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE221",
+                "course_name": "Parallel Computing",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 76
+            },
+            {
+                "course_id": "CSE189",
+                "course_name": "Embedded Systems",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 84
+            }
+        ]
+    },
+    {
+        "student_id": "ST0091",
+        "name": "Benjamin Peck",
+        "email": "kellyjennifer@example.com",
+        "phone": "529-918-0763x4613",
+        "program_id": "DS",
+        "year": 1,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE138",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 73
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 70
+            },
+            {
+                "course_id": "CSE165",
+                "course_name": "Cyber Security",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 70
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0092",
+        "name": "Joseph Potts",
+        "email": "robert44@example.org",
+        "phone": "(539)905-5036x570",
+        "program_id": "CSE",
+        "year": 3,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 93
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 74
+            },
+            {
+                "course_id": "CSE466",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0093",
+        "name": "Ricardo Chandler",
+        "email": "christopher51@example.net",
+        "phone": "(449)221-9049x184",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 97
+            },
+            {
+                "course_id": "CSE293",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 64
+            }
+        ]
+    },
+    {
+        "student_id": "ST0094",
+        "name": "Ashley Santiago",
+        "email": "dylanbarry@example.org",
+        "phone": "(582)651-4827",
+        "program_id": "CS",
+        "year": 2,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE371",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0095",
+        "name": "Paula Mueller",
+        "email": "phyllismartinez@example.com",
+        "phone": "+1-724-820-4869x813",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 67
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE433",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0096",
+        "name": "Thomas Hamilton",
+        "email": "russellkenneth@example.com",
+        "phone": "888-251-6769",
+        "program_id": "CS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE432",
+                "course_name": "Cyber Security",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE240",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 83
+            },
+            {
+                "course_id": "CSE360",
+                "course_name": "Operating Systems",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 80
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 78
+            }
+        ]
+    },
+    {
+        "student_id": "ST0097",
+        "name": "Jon Solomon DDS",
+        "email": "zacharyallison@example.net",
+        "phone": "(839)474-9835",
+        "program_id": "CSE",
+        "year": 1,
+        "status": "Active",
+        "enrollment": [
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE176",
+                "course_name": "Software Engineering",
+                "semester": "2023/1",
+                "status": "Completed",
+                "grade": 92
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "Completed",
+                "grade": 71
+            }
+        ]
+    },
+    {
+        "student_id": "ST0098",
+        "name": "Nathan Rodriguez",
+        "email": "lewisphillip@example.net",
+        "phone": "564-754-2250x4874",
+        "program_id": "DS",
+        "year": 4,
+        "status": "Suspended",
+        "enrollment": [
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2024/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE477",
+                "course_name": "Web Development",
+                "semester": "2023/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE190",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 90
+            },
+            {
+                "course_id": "CSE365",
+                "course_name": "Machine Learning",
+                "semester": "2024/2",
+                "status": "In Progress"
+            }
+        ]
+    },
+    {
+        "student_id": "ST0099",
+        "name": "Joshua Peterson",
+        "email": "christopher97@example.com",
+        "phone": "347.212.0091x62863",
+        "program_id": "CE",
+        "year": 3,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE259",
+                "course_name": "Software Engineering",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 68
+            },
+            {
+                "course_id": "CSE274",
+                "course_name": "Advanced Microprocessors",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE236",
+                "course_name": "Machine Learning",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE204",
+                "course_name": "Machine Learning",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE120",
+                "course_name": "Algorithms",
+                "semester": "2023/2",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE229",
+                "course_name": "AI Fundamentals",
+                "semester": "2023/2",
+                "status": "Failed",
+                "grade": 53
+            }
+        ]
+    },
+    {
+        "student_id": "ST0100",
+        "name": "Jessica Daniel",
+        "email": "samanthacrosby@example.net",
+        "phone": "(282)339-8925x15843",
+        "program_id": "IT",
+        "year": 2,
+        "status": "Graduated",
+        "enrollment": [
+            {
+                "course_id": "CSE188",
+                "course_name": "Operating Systems",
+                "semester": "2024/1",
+                "status": "Completed",
+                "grade": 69
+            },
+            {
+                "course_id": "CSE302",
+                "course_name": "Database Systems",
+                "semester": "2024/1",
+                "status": "In Progress"
+            },
+            {
+                "course_id": "CSE205",
+                "course_name": "Data Structures",
+                "semester": "2023/2",
+                "status": "Completed",
+                "grade": 75
+            },
+            {
+                "course_id": "CSE198",
+                "course_name": "Operating Systems",
+                "semester": "2023/1",
+                "status": "In Progress"
+            }
+        ]
+    }
+]

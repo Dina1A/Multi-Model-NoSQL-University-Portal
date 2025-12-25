@@ -1,0 +1,6127 @@
+{
+    "nodes": {
+        "students": [
+            {
+                "student_id": "2023486",
+                "name": "Alexander Espinoza"
+            },
+            {
+                "student_id": "2023244",
+                "name": "Rebecca Stewart"
+            },
+            {
+                "student_id": "2023943",
+                "name": "John Buchanan"
+            },
+            {
+                "student_id": "2023502",
+                "name": "Steven Griffith"
+            },
+            {
+                "student_id": "2023808",
+                "name": "Christopher Turner"
+            },
+            {
+                "student_id": "2023197",
+                "name": "James Contreras"
+            },
+            {
+                "student_id": "2023440",
+                "name": "Jason Weeks"
+            },
+            {
+                "student_id": "2023680",
+                "name": "Brian Castillo"
+            },
+            {
+                "student_id": "2023166",
+                "name": "Taylor Wolfe"
+            },
+            {
+                "student_id": "2023508",
+                "name": "Jonathan Miller"
+            },
+            {
+                "student_id": "2023524",
+                "name": "Michael Pierce"
+            },
+            {
+                "student_id": "2023610",
+                "name": "Trevor Acosta"
+            },
+            {
+                "student_id": "2023840",
+                "name": "Daniel Patel"
+            },
+            {
+                "student_id": "2023545",
+                "name": "Zachary Lewis"
+            },
+            {
+                "student_id": "2023206",
+                "name": "Benjamin James"
+            },
+            {
+                "student_id": "2023422",
+                "name": "Susan Bowman"
+            },
+            {
+                "student_id": "2023861",
+                "name": "Andrew Carey"
+            },
+            {
+                "student_id": "2023546",
+                "name": "Benjamin Mclaughlin"
+            },
+            {
+                "student_id": "2023634",
+                "name": "Austin Swanson"
+            },
+            {
+                "student_id": "2023207",
+                "name": "Michele Pena"
+            },
+            {
+                "student_id": "2023025",
+                "name": "Jacob Berger"
+            },
+            {
+                "student_id": "2023218",
+                "name": "Nicholas Johnson"
+            },
+            {
+                "student_id": "2023231",
+                "name": "Tanya Johnson"
+            },
+            {
+                "student_id": "2023130",
+                "name": "Charles Gonzalez"
+            },
+            {
+                "student_id": "2023873",
+                "name": "John Leblanc"
+            },
+            {
+                "student_id": "2023550",
+                "name": "Diana Hess"
+            },
+            {
+                "student_id": "2023152",
+                "name": "Jon Winters"
+            },
+            {
+                "student_id": "2023466",
+                "name": "Grace Hicks"
+            },
+            {
+                "student_id": "2023849",
+                "name": "Jillian Bryant"
+            },
+            {
+                "student_id": "2023938",
+                "name": "Joshua Nguyen"
+            },
+            {
+                "student_id": "2023432",
+                "name": "Danny Brown"
+            },
+            {
+                "student_id": "2023526",
+                "name": "Dr. Shawn Sawyer"
+            },
+            {
+                "student_id": "2023319",
+                "name": "Maria Thornton"
+            },
+            {
+                "student_id": "2023595",
+                "name": "Kelly Thomas"
+            },
+            {
+                "student_id": "2023990",
+                "name": "Sara Thomas"
+            },
+            {
+                "student_id": "2023477",
+                "name": "Ashley Moody"
+            },
+            {
+                "student_id": "2023896",
+                "name": "Sandra Rodriguez"
+            },
+            {
+                "student_id": "2023682",
+                "name": "Jeremiah Jenkins"
+            },
+            {
+                "student_id": "2023331",
+                "name": "Ruben Ball"
+            },
+            {
+                "student_id": "2023367",
+                "name": "Dana Santos"
+            },
+            {
+                "student_id": "2023426",
+                "name": "Melissa Vincent"
+            },
+            {
+                "student_id": "2023720",
+                "name": "Christine Garcia"
+            },
+            {
+                "student_id": "2023109",
+                "name": "Daniel Daugherty"
+            },
+            {
+                "student_id": "2023761",
+                "name": "Jordan Williams"
+            },
+            {
+                "student_id": "2023917",
+                "name": "Terry Bryant"
+            },
+            {
+                "student_id": "2023568",
+                "name": "Virginia Black"
+            },
+            {
+                "student_id": "2023340",
+                "name": "Kenneth Ellis"
+            },
+            {
+                "student_id": "2023717",
+                "name": "April Palmer"
+            },
+            {
+                "student_id": "2023057",
+                "name": "Brenda Ferguson"
+            },
+            {
+                "student_id": "2023350",
+                "name": "Olivia Nguyen"
+            },
+            {
+                "student_id": "2023729",
+                "name": "Lisa Meza"
+            },
+            {
+                "student_id": "2023865",
+                "name": "Cristina Vasquez"
+            },
+            {
+                "student_id": "2023852",
+                "name": "Douglas Long"
+            },
+            {
+                "student_id": "2023033",
+                "name": "Connie Arnold"
+            },
+            {
+                "student_id": "2023907",
+                "name": "Julie Hartman"
+            },
+            {
+                "student_id": "2023635",
+                "name": "Troy Watson Jr."
+            },
+            {
+                "student_id": "2023478",
+                "name": "Desiree Baker"
+            },
+            {
+                "student_id": "2023778",
+                "name": "Alexis Mooney"
+            },
+            {
+                "student_id": "2023199",
+                "name": "Brenda Bennett"
+            },
+            {
+                "student_id": "2023252",
+                "name": "Jessica Boyd"
+            },
+            {
+                "student_id": "2023781",
+                "name": "Megan Parker"
+            },
+            {
+                "student_id": "2023889",
+                "name": "Brian Barrett"
+            },
+            {
+                "student_id": "2023798",
+                "name": "Susan Vega"
+            },
+            {
+                "student_id": "2023748",
+                "name": "Tyler Evans"
+            },
+            {
+                "student_id": "2023385",
+                "name": "Jennifer Garcia"
+            },
+            {
+                "student_id": "2023940",
+                "name": "Angela Silva"
+            },
+            {
+                "student_id": "2023480",
+                "name": "Heather Thomas"
+            },
+            {
+                "student_id": "2023306",
+                "name": "Jacob Leonard"
+            },
+            {
+                "student_id": "2023167",
+                "name": "Raymond Mcgee"
+            },
+            {
+                "student_id": "2023346",
+                "name": "Heather Wallace"
+            },
+            {
+                "student_id": "2023654",
+                "name": "Jesse Cox"
+            },
+            {
+                "student_id": "2023494",
+                "name": "Jessica Sparks"
+            },
+            {
+                "student_id": "2023338",
+                "name": "Steven Ward"
+            },
+            {
+                "student_id": "2023856",
+                "name": "Gregory Carter"
+            },
+            {
+                "student_id": "2023844",
+                "name": "Scott Valdez"
+            },
+            {
+                "student_id": "2023998",
+                "name": "William Steele"
+            },
+            {
+                "student_id": "2023879",
+                "name": "Victoria Kline"
+            },
+            {
+                "student_id": "2023143",
+                "name": "Michael Bailey"
+            },
+            {
+                "student_id": "2023588",
+                "name": "Donna Rodriguez"
+            },
+            {
+                "student_id": "2023376",
+                "name": "Amber Clark"
+            },
+            {
+                "student_id": "2023481",
+                "name": "Lisa Barrett"
+            },
+            {
+                "student_id": "2023901",
+                "name": "Jonathan Rice"
+            },
+            {
+                "student_id": "2023836",
+                "name": "Michael Roberts"
+            },
+            {
+                "student_id": "2023074",
+                "name": "Jonathan Nelson"
+            },
+            {
+                "student_id": "2023712",
+                "name": "Teresa Sanchez"
+            },
+            {
+                "student_id": "2023459",
+                "name": "William Kennedy"
+            },
+            {
+                "student_id": "2023999",
+                "name": "Catherine Salazar"
+            },
+            {
+                "student_id": "2023866",
+                "name": "Rebecca Porter"
+            },
+            {
+                "student_id": "2023883",
+                "name": "Jennifer Wallace"
+            },
+            {
+                "student_id": "2023460",
+                "name": "Zachary Davis"
+            },
+            {
+                "student_id": "2023700",
+                "name": "Jeanne Rowland"
+            },
+            {
+                "student_id": "2023391",
+                "name": "Micheal Medina"
+            },
+            {
+                "student_id": "2023148",
+                "name": "Cathy Harmon"
+            },
+            {
+                "student_id": "2023215",
+                "name": "Kimberly Hughes"
+            },
+            {
+                "student_id": "2023578",
+                "name": "Jamie Cook"
+            },
+            {
+                "student_id": "2023574",
+                "name": "Elizabeth Miller"
+            },
+            {
+                "student_id": "2023122",
+                "name": "Julie Johnson"
+            },
+            {
+                "student_id": "2023347",
+                "name": "Stanley Johnson"
+            },
+            {
+                "student_id": "2023591",
+                "name": "Jack Miller"
+            },
+            {
+                "student_id": "2023344",
+                "name": "Jamie Salazar"
+            },
+            {
+                "student_id": "2023833",
+                "name": "Melanie King"
+            },
+            {
+                "student_id": "2023505",
+                "name": "Shannon Hoffman"
+            },
+            {
+                "student_id": "2023563",
+                "name": "Tracy Lewis"
+            },
+            {
+                "student_id": "2023732",
+                "name": "Kevin Johnson"
+            },
+            {
+                "student_id": "2023047",
+                "name": "Kimberly Garcia"
+            },
+            {
+                "student_id": "2023953",
+                "name": "Olivia Johnson"
+            },
+            {
+                "student_id": "2023751",
+                "name": "Jessica Delacruz"
+            },
+            {
+                "student_id": "2023058",
+                "name": "Cory Haas"
+            },
+            {
+                "student_id": "2023632",
+                "name": "Brian Bennett"
+            },
+            {
+                "student_id": "2023364",
+                "name": "David Harris"
+            },
+            {
+                "student_id": "2023525",
+                "name": "Andrew Smith"
+            },
+            {
+                "student_id": "2023868",
+                "name": "Steve Hart"
+            },
+            {
+                "student_id": "2023992",
+                "name": "Mr. Tyler Rogers"
+            },
+            {
+                "student_id": "2023201",
+                "name": "James Hensley"
+            },
+            {
+                "student_id": "2023544",
+                "name": "Brian Thomas"
+            },
+            {
+                "student_id": "2023084",
+                "name": "Rebecca Rodgers"
+            },
+            {
+                "student_id": "2023282",
+                "name": "Joanna Davies"
+            },
+            {
+                "student_id": "2023624",
+                "name": "Kendra Holt"
+            },
+            {
+                "student_id": "2023949",
+                "name": "James Robertson Jr."
+            },
+            {
+                "student_id": "2023594",
+                "name": "Joseph David"
+            },
+            {
+                "student_id": "2023891",
+                "name": "Deborah Dudley"
+            },
+            {
+                "student_id": "2023598",
+                "name": "Ricky Cooper"
+            },
+            {
+                "student_id": "2023465",
+                "name": "April Bauer"
+            },
+            {
+                "student_id": "2023476",
+                "name": "Ashley Bass"
+            },
+            {
+                "student_id": "2023726",
+                "name": "Kathy Aguilar"
+            },
+            {
+                "student_id": "2023133",
+                "name": "Amy Webb"
+            },
+            {
+                "student_id": "2023934",
+                "name": "Brittany Carpenter"
+            },
+            {
+                "student_id": "2023118",
+                "name": "Kelly Rush"
+            },
+            {
+                "student_id": "2023707",
+                "name": "David Castaneda"
+            },
+            {
+                "student_id": "2023090",
+                "name": "Christy Nguyen"
+            },
+            {
+                "student_id": "2023002",
+                "name": "Christopher Smith"
+            },
+            {
+                "student_id": "2023790",
+                "name": "Jaime Perez"
+            },
+            {
+                "student_id": "2023290",
+                "name": "Tyrone Logan"
+            },
+            {
+                "student_id": "2023691",
+                "name": "Misty Mccarty"
+            },
+            {
+                "student_id": "2023914",
+                "name": "Courtney Duffy"
+            },
+            {
+                "student_id": "2023529",
+                "name": "Tommy Barton"
+            },
+            {
+                "student_id": "2023863",
+                "name": "Anthony Williams"
+            },
+            {
+                "student_id": "2023623",
+                "name": "Felicia Wilson"
+            },
+            {
+                "student_id": "2023049",
+                "name": "Andrea Manning"
+            },
+            {
+                "student_id": "2023966",
+                "name": "Janet Lindsey"
+            },
+            {
+                "student_id": "2023107",
+                "name": "Alexandria Brown"
+            },
+            {
+                "student_id": "2023942",
+                "name": "Elizabeth Cohen"
+            },
+            {
+                "student_id": "2023939",
+                "name": "Carolyn Garrison"
+            },
+            {
+                "student_id": "2023515",
+                "name": "Alyssa Payne"
+            },
+            {
+                "student_id": "2023276",
+                "name": "Steven Smith"
+            },
+            {
+                "student_id": "2023250",
+                "name": "Diane Powers"
+            },
+            {
+                "student_id": "2023899",
+                "name": "Jerry Lawrence"
+            },
+            {
+                "student_id": "2023255",
+                "name": "Thomas White"
+            },
+            {
+                "student_id": "2023982",
+                "name": "Pamela Lester"
+            },
+            {
+                "student_id": "2023153",
+                "name": "Michael White"
+            },
+            {
+                "student_id": "2023958",
+                "name": "John Rogers II"
+            },
+            {
+                "student_id": "2023964",
+                "name": "Rachel Smith"
+            },
+            {
+                "student_id": "2023615",
+                "name": "Angela Harrington"
+            },
+            {
+                "student_id": "2023229",
+                "name": "Alyssa Norton"
+            },
+            {
+                "student_id": "2023495",
+                "name": "Steven Collins"
+            },
+            {
+                "student_id": "2023302",
+                "name": "Kathleen Robertson"
+            },
+            {
+                "student_id": "2023619",
+                "name": "Kristina Brewer"
+            },
+            {
+                "student_id": "2023557",
+                "name": "Samuel Howell"
+            },
+            {
+                "student_id": "2023650",
+                "name": "Amanda Dixon"
+            },
+            {
+                "student_id": "2023064",
+                "name": "Amy Sanchez"
+            },
+            {
+                "student_id": "2023040",
+                "name": "David Cox"
+            },
+            {
+                "student_id": "2023220",
+                "name": "Cheryl Owens"
+            },
+            {
+                "student_id": "2023719",
+                "name": "Christina Holmes"
+            },
+            {
+                "student_id": "2023690",
+                "name": "Stephen Solis"
+            },
+            {
+                "student_id": "2023235",
+                "name": "Sean Adams"
+            },
+            {
+                "student_id": "2023599",
+                "name": "Catherine Avila"
+            },
+            {
+                "student_id": "2023442",
+                "name": "Joseph Flores"
+            },
+            {
+                "student_id": "2023427",
+                "name": "Tiffany Carr"
+            },
+            {
+                "student_id": "2023576",
+                "name": "Sabrina Smith"
+            },
+            {
+                "student_id": "2023646",
+                "name": "Monica Greer"
+            },
+            {
+                "student_id": "2023746",
+                "name": "Russell Moss"
+            },
+            {
+                "student_id": "2023875",
+                "name": "Sandra Johnson"
+            },
+            {
+                "student_id": "2023303",
+                "name": "Lisa Chung"
+            },
+            {
+                "student_id": "2023997",
+                "name": "Sarah Anderson"
+            },
+            {
+                "student_id": "2023714",
+                "name": "Shannon Roach"
+            },
+            {
+                "student_id": "2023963",
+                "name": "Linda Maxwell"
+            },
+            {
+                "student_id": "2023640",
+                "name": "Edward Glass"
+            },
+            {
+                "student_id": "2023073",
+                "name": "Jordan Garrett"
+            },
+            {
+                "student_id": "2023664",
+                "name": "Danielle Davis"
+            },
+            {
+                "student_id": "2023030",
+                "name": "David Palmer"
+            },
+            {
+                "student_id": "2023127",
+                "name": "Jeffrey Russell"
+            },
+            {
+                "student_id": "2023807",
+                "name": "Danielle Dominguez"
+            },
+            {
+                "student_id": "2023752",
+                "name": "Ethan Riley"
+            },
+            {
+                "student_id": "2023095",
+                "name": "Deborah Kim"
+            },
+            {
+                "student_id": "2023222",
+                "name": "Shannon Harmon"
+            },
+            {
+                "student_id": "2023930",
+                "name": "Robin Rodriguez"
+            },
+            {
+                "student_id": "2023263",
+                "name": "Curtis Mullins Jr."
+            },
+            {
+                "student_id": "2023434",
+                "name": "Noah Smith"
+            },
+            {
+                "student_id": "2023147",
+                "name": "Keith Brown"
+            },
+            {
+                "student_id": "2023745",
+                "name": "Anthony Huffman"
+            },
+            {
+                "student_id": "2023511",
+                "name": "Rachel Davidson"
+            },
+            {
+                "student_id": "2023383",
+                "name": "Micheal Day"
+            },
+            {
+                "student_id": "2023962",
+                "name": "Jose Warren"
+            },
+            {
+                "student_id": "2023015",
+                "name": "Ethan Peck"
+            },
+            {
+                "student_id": "2023443",
+                "name": "Ray Maynard"
+            },
+            {
+                "student_id": "2023744",
+                "name": "Samantha Ruiz"
+            },
+            {
+                "student_id": "2023765",
+                "name": "Carolyn Turner"
+            },
+            {
+                "student_id": "2023249",
+                "name": "Corey Gonzalez"
+            },
+            {
+                "student_id": "2023416",
+                "name": "Carolyn Palmer"
+            },
+            {
+                "student_id": "2023516",
+                "name": "Ryan Bradford"
+            }
+        ],
+        "courses": [
+            {
+                "course_id": "CSE247",
+                "name": "Cloned clear-thinking structure"
+            },
+            {
+                "course_id": "CSE318",
+                "name": "Open-architected holistic project"
+            },
+            {
+                "course_id": "CSE237",
+                "name": "Function-based needs-based Internet solution"
+            },
+            {
+                "course_id": "CSE246",
+                "name": "Future-proofed directional challenge"
+            },
+            {
+                "course_id": "CSE450",
+                "name": "Automated client-server support"
+            },
+            {
+                "course_id": "CSE462",
+                "name": "Multi-tiered context-sensitive attitude"
+            },
+            {
+                "course_id": "CSE330",
+                "name": "Optional logistical project"
+            },
+            {
+                "course_id": "CSE272",
+                "name": "Extended analyzing standardization"
+            },
+            {
+                "course_id": "CSE329",
+                "name": "Persistent modular model"
+            },
+            {
+                "course_id": "CSE499",
+                "name": "Advanced dynamic help-desk"
+            },
+            {
+                "course_id": "CSE449",
+                "name": "Multi-layered needs-based forecast"
+            },
+            {
+                "course_id": "CSE200",
+                "name": "Total radical system engine"
+            },
+            {
+                "course_id": "CSE387",
+                "name": "Intuitive hybrid help-desk"
+            },
+            {
+                "course_id": "CSE344",
+                "name": "Polarized non-volatile secured line"
+            },
+            {
+                "course_id": "CSE259",
+                "name": "Cross-platform radical capability"
+            },
+            {
+                "course_id": "CSE217",
+                "name": "Enhanced heuristic approach"
+            },
+            {
+                "course_id": "CSE268",
+                "name": "Re-contextualized executive methodology"
+            },
+            {
+                "course_id": "CSE299",
+                "name": "Quality-focused intangible capability"
+            },
+            {
+                "course_id": "CSE437",
+                "name": "Down-sized multimedia intranet"
+            },
+            {
+                "course_id": "CSE460",
+                "name": "Streamlined human-resource knowledgebase"
+            },
+            {
+                "course_id": "CSE205",
+                "name": "Switchable secondary strategy"
+            },
+            {
+                "course_id": "CSE335",
+                "name": "Diverse transitional access"
+            },
+            {
+                "course_id": "CSE474",
+                "name": "Synergized 3rdgeneration pricing structure"
+            },
+            {
+                "course_id": "CSE298",
+                "name": "Streamlined bifurcated support"
+            },
+            {
+                "course_id": "CSE327",
+                "name": "Phased systematic time-frame"
+            },
+            {
+                "course_id": "CSE491",
+                "name": "Right-sized client-driven projection"
+            },
+            {
+                "course_id": "CSE487",
+                "name": "Total 4thgeneration hardware"
+            },
+            {
+                "course_id": "CSE374",
+                "name": "Multi-channeled regional matrices"
+            },
+            {
+                "course_id": "CSE458",
+                "name": "Business-focused bandwidth-monitored solution"
+            },
+            {
+                "course_id": "CSE373",
+                "name": "Organized grid-enabled neural-net"
+            },
+            {
+                "course_id": "CSE243",
+                "name": "Face-to-face responsive paradigm"
+            },
+            {
+                "course_id": "CSE341",
+                "name": "Robust zero administration circuit"
+            },
+            {
+                "course_id": "CSE343",
+                "name": "Open-architected optimizing budgetary management"
+            },
+            {
+                "course_id": "CSE458",
+                "name": "Integrated encompassing hardware"
+            },
+            {
+                "course_id": "CSE384",
+                "name": "Optional transitional encryption"
+            },
+            {
+                "course_id": "CSE358",
+                "name": "Total multimedia success"
+            },
+            {
+                "course_id": "CSE375",
+                "name": "Self-enabling fault-tolerant ability"
+            },
+            {
+                "course_id": "CSE285",
+                "name": "Secured value-added neural-net"
+            },
+            {
+                "course_id": "CSE234",
+                "name": "Sharable object-oriented middleware"
+            },
+            {
+                "course_id": "CSE444",
+                "name": "Devolved scalable parallelism"
+            }
+        ],
+        "instructors": [
+            {
+                "instructor_id": "INS100",
+                "name": "Joan Herring",
+                "email": "michaelsmith@example.org",
+                "department": "CS",
+                "office": "B-448",
+                "office_hours": "Thu 1-3"
+            },
+            {
+                "instructor_id": "INS101",
+                "name": "Mr. Bobby Keller",
+                "email": "uharvey@example.org",
+                "department": "Computer Engineering",
+                "office": "A-174",
+                "office_hours": "Mon 12-2"
+            },
+            {
+                "instructor_id": "INS102",
+                "name": "Pamela Perez",
+                "email": "robin47@example.com",
+                "department": "CS",
+                "office": "C-130",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS103",
+                "name": "Jose Moreno",
+                "email": "kimpaul@example.org",
+                "department": "CS",
+                "office": "A-390",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS104",
+                "name": "Melissa Powers DDS",
+                "email": "yangtracey@example.org",
+                "department": "Computer Engineering",
+                "office": "A-182",
+                "office_hours": "Mon 12-2"
+            },
+            {
+                "instructor_id": "INS105",
+                "name": "Lauren Lee",
+                "email": "damondunn@example.org",
+                "department": "Computer Engineering",
+                "office": "C-464",
+                "office_hours": "Thu 1-3"
+            },
+            {
+                "instructor_id": "INS106",
+                "name": "Nancy Bond",
+                "email": "smithjames@example.org",
+                "department": "Computer Engineering",
+                "office": "A-422",
+                "office_hours": "Mon 12-2"
+            },
+            {
+                "instructor_id": "INS107",
+                "name": "Kathleen Ball",
+                "email": "dwong@example.org",
+                "department": "CS",
+                "office": "B-152",
+                "office_hours": "Thu 1-3"
+            },
+            {
+                "instructor_id": "INS108",
+                "name": "Stephanie Hicks",
+                "email": "vmiller@example.com",
+                "department": "Computer Engineering",
+                "office": "C-273",
+                "office_hours": "Mon 12-2"
+            },
+            {
+                "instructor_id": "INS109",
+                "name": "Michelle Wu",
+                "email": "bethany24@example.com",
+                "department": "IT",
+                "office": "A-215",
+                "office_hours": "Mon 12-2"
+            },
+            {
+                "instructor_id": "INS110",
+                "name": "Christina Soto",
+                "email": "richardslarry@example.org",
+                "department": "Computer Engineering",
+                "office": "C-267",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS111",
+                "name": "Julie Ray",
+                "email": "susanenglish@example.org",
+                "department": "IT",
+                "office": "C-365",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS112",
+                "name": "Brian Stout",
+                "email": "gskinner@example.org",
+                "department": "Computer Engineering",
+                "office": "A-444",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS113",
+                "name": "Rita Fisher",
+                "email": "harrisnicole@example.com",
+                "department": "IT",
+                "office": "A-348",
+                "office_hours": "Tue 10-12"
+            },
+            {
+                "instructor_id": "INS114",
+                "name": "Joseph Love",
+                "email": "bmurray@example.com",
+                "department": "Computer Engineering",
+                "office": "A-367",
+                "office_hours": "Mon 12-2"
+            }
+        ]
+    },
+    "relationships": [
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023486",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023486",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023486",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023486",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023486",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023244",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023943",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023502",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023502",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023502",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023808",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023197",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023440",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023440",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023440",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023680",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023680",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023680",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023680",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023680",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023166",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023166",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023166",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023166",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023508",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023508",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023508",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023508",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023524",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023524",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023524",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023610",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023840",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023840",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023840",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023545",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023545",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023545",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023545",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023545",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023206",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023206",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023206",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023206",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023206",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023422",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023422",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023422",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023422",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023422",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023861",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023546",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023634",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023634",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023634",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023207",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023207",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023207",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023207",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023207",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023025",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023025",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023025",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023025",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023025",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023218",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023218",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023218",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023218",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023231",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023231",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023231",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023130",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023130",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023130",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023873",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023873",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023873",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023873",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023550",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023152",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023152",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023152",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023466",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023466",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023466",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023466",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023849",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023938",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023432",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023432",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023432",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023526",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023526",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023526",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023526",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023526",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023319",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023319",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023319",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023595",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023990",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023990",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023990",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023990",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023990",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023477",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023477",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023477",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023477",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023896",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023896",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023896",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023896",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023682",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023331",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023331",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023331",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023367",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023367",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023367",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023367",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023426",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023426",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023426",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023720",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023109",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023109",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023109",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023109",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023109",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023761",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023917",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023917",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023917",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023917",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023917",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023568",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023340",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023340",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023340",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023340",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023717",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023057",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023057",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023057",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023057",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023057",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023350",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023350",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023350",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023729",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023729",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023729",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023865",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023852",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023852",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023852",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023033",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023907",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023907",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023907",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023635",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023635",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023635",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023478",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023778",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023778",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023778",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023199",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023252",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023252",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023252",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023252",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023252",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023781",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023889",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023798",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023798",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023798",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023798",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023748",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023748",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023748",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023748",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023385",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023385",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023385",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023940",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023940",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023940",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023940",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023940",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023480",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023480",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023480",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023480",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023306",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023306",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023306",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023306",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023167",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023167",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023167",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023346",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023346",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023346",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023654",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023654",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023654",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023654",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023654",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023494",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023494",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023494",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023338",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023338",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023338",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023856",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023856",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023856",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023856",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023844",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023998",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023998",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023998",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023879",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023143",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023143",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023143",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023588",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023588",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023588",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023376",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023481",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023481",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023481",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023481",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023481",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023901",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023836",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023836",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023836",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023836",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023074",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023712",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023459",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023459",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023459",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023459",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023459",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023999",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023866",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023883",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023883",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023883",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023883",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023883",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023460",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023700",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023700",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023700",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023391",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023391",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023391",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023391",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023148",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023215",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023215",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023215",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023215",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023215",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023578",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023578",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023578",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023578",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023578",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023574",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023122",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023122",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023122",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023122",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023122",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023347",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023347",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023347",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023591",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023591",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023591",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023591",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023344",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023344",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023344",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023344",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023833",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023833",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023833",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023833",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023505",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023505",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023505",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023505",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023563",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023732",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023732",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023732",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023732",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023732",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023047",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023047",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023047",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023953",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023953",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023953",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023953",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023751",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023058",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023632",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023364",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023364",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023364",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023364",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023364",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023525",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023525",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023525",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023525",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023525",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023868",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023992",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023201",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023544",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023084",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023084",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023084",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023282",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023282",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023282",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023282",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023282",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023624",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023949",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023949",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023949",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023594",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023594",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023594",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023594",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023594",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023891",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023891",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023891",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023598",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023465",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023465",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023465",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023476",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023476",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023476",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023726",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023726",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023726",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023133",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023934",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023934",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023934",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023934",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023934",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023118",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023118",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023118",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023118",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023707",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023707",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023707",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023707",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023707",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023090",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023090",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023090",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023090",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023090",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023002",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023002",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023002",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023002",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023790",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023290",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023290",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023290",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023290",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023691",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023691",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023691",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023691",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023914",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023914",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023914",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023914",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023529",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023529",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023529",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023529",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023863",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023863",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023863",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023863",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023623",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023049",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023049",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023049",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023966",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023966",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023966",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023966",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023966",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023107",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023942",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023942",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023942",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023939",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023939",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023939",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023939",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023515",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023515",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023515",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023515",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023276",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023276",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023276",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023276",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023276",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023250",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023250",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023250",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023250",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023899",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023255",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023255",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023255",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023982",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023982",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023982",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023982",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023153",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023958",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023958",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023958",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023958",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023958",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023964",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023964",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023964",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023964",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023964",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023615",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023229",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023495",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023302",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023619",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023557",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023650",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023650",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023650",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023064",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023064",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023064",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023040",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023220",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023719",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023690",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023690",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023690",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023235",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023235",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023235",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023599",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023442",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023427",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023427",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023427",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023427",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023576",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023576",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023576",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023576",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023646",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023646",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023646",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023746",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023746",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023746",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023746",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023875",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023875",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023875",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023875",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023875",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023303",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023997",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023997",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023997",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023997",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023714",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023714",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023714",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023963",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023640",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023640",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023640",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023640",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Intuitive hybrid help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023073",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023664",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023664",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023664",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023664",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023030",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023030",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023030",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023127",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023807",
+            "course_name": "Multi-tiered context-sensitive attitude"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023807",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023807",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023807",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023807",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Devolved scalable parallelism"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Sharable object-oriented middleware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Total 4thgeneration hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023752",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023095",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023222",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023222",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023222",
+            "course_name": "Polarized non-volatile secured line"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023222",
+            "course_name": "Secured value-added neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023222",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023930",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023930",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023930",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023930",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023930",
+            "course_name": "Quality-focused intangible capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023263",
+            "course_name": "Self-enabling fault-tolerant ability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023263",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023263",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023263",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Robust zero administration circuit"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023434",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023147",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023745",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023745",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023745",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023511",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023511",
+            "course_name": "Automated client-server support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023511",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023511",
+            "course_name": "Advanced dynamic help-desk"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023383",
+            "course_name": "Organized grid-enabled neural-net"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023383",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023383",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023383",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023383",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023962",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023962",
+            "course_name": "Streamlined bifurcated support"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023962",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023962",
+            "course_name": "Re-contextualized executive methodology"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023015",
+            "course_name": "Down-sized multimedia intranet"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023015",
+            "course_name": "Optional logistical project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023015",
+            "course_name": "Phased systematic time-frame"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023015",
+            "course_name": "Cloned clear-thinking structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023443",
+            "course_name": "Persistent modular model"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023443",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023443",
+            "course_name": "Extended analyzing standardization"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023443",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Streamlined human-resource knowledgebase"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Face-to-face responsive paradigm"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Function-based needs-based Internet solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023744",
+            "course_name": "Enhanced heuristic approach"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023765",
+            "course_name": "Multi-layered needs-based forecast"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023765",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023765",
+            "course_name": "Total multimedia success"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023765",
+            "course_name": "Multi-channeled regional matrices"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Business-focused bandwidth-monitored solution"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Cross-platform radical capability"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Open-architected holistic project"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023249",
+            "course_name": "Total radical system engine"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Diverse transitional access"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Future-proofed directional challenge"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Synergized 3rdgeneration pricing structure"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Right-sized client-driven projection"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023416",
+            "course_name": "Open-architected optimizing budgetary management"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023516",
+            "course_name": "Integrated encompassing hardware"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023516",
+            "course_name": "Optional transitional encryption"
+        },
+        {
+            "type": "ENROLLED_IN",
+            "student_id": "2023516",
+            "course_name": "Switchable secondary strategy"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS106",
+            "course_id": "CSE247"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE318"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS106",
+            "course_id": "CSE237"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS112",
+            "course_id": "CSE246"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS112",
+            "course_id": "CSE450"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS111",
+            "course_id": "CSE462"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS102",
+            "course_id": "CSE330"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS114",
+            "course_id": "CSE272"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS107",
+            "course_id": "CSE329"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS109",
+            "course_id": "CSE499"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS101",
+            "course_id": "CSE449"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE200"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS104",
+            "course_id": "CSE387"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS108",
+            "course_id": "CSE344"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS103",
+            "course_id": "CSE259"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS110",
+            "course_id": "CSE217"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS103",
+            "course_id": "CSE268"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS103",
+            "course_id": "CSE299"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS107",
+            "course_id": "CSE437"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS105",
+            "course_id": "CSE460"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS113",
+            "course_id": "CSE205"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS103",
+            "course_id": "CSE335"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS101",
+            "course_id": "CSE474"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS104",
+            "course_id": "CSE298"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS111",
+            "course_id": "CSE327"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE491"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS112",
+            "course_id": "CSE487"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS111",
+            "course_id": "CSE374"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS105",
+            "course_id": "CSE458"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS108",
+            "course_id": "CSE373"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS105",
+            "course_id": "CSE243"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS107",
+            "course_id": "CSE341"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS114",
+            "course_id": "CSE343"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS111",
+            "course_id": "CSE458"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS106",
+            "course_id": "CSE384"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS114",
+            "course_id": "CSE358"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS109",
+            "course_id": "CSE375"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE285"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE234"
+        },
+        {
+            "type": "TEACHES",
+            "instructor_id": "INS115",
+            "course_id": "CSE444"
+        }
+    ]
+}

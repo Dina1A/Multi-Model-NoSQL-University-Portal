@@ -1,0 +1,77 @@
+[
+    {
+        "program_id": "CSE",
+        "name": "CSE Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "CSE304",
+            "CSE204",
+            "CSE176",
+            "CSE433",
+            "CSE340"
+        ]
+    },
+    {
+        "program_id": "CS",
+        "name": "CS Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "CSE240",
+            "CSE293",
+            "CSE102",
+            "CSE371",
+            "CSE198"
+        ]
+    },
+    {
+        "program_id": "IT",
+        "name": "IT Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "CSE102",
+            "CSE176",
+            "CSE240",
+            "CSE274",
+            "CSE198"
+        ]
+    },
+    {
+        "program_id": "DS",
+        "name": "DS Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "CSE213",
+            "CSE259",
+            "CSE176",
+            "CSE432",
+            "CSE229"
+        ]
+    },
+    {
+        "program_id": "CE",
+        "name": "CE Program",
+        "department": "Engineering",
+        "degree": "Bachelor",
+        "duration_years": 5,
+        "total_credits": 162,
+        "required_courses": [
+            "CSE198",
+            "CSE288",
+            "CSE415",
+            "CSE433",
+            "CSE274"
+        ]
+    }
+]
